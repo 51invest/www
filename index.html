@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="51invest投资导航 - 聚合全球投资理财平台、外链、工具的一站式导航网站">
+  <meta name="keywords" content="投资,理财,股票,基金,外汇,加密货币,期货,债券,导航">
+  <title>51invest 投资导航 - 全球投资理财平台一站式导航</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+            </svg>
+          </div>
+          <div class="logo-text">
+            <h1>51invest 投资导航</h1>
+            <p>全球投资理财平台一站式导航</p>
+          </div>
+        </div>
+        <div class="search-box">
+          <input type="text" id="searchInput" placeholder="搜索投资平台、工具、资讯..." autocomplete="off">
+        </div>
+        <div class="stats">
+          <div class="stat-item">
+            <span class="stat-value" id="totalLinks">0</span>
+            <span>精选外链</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-value" id="totalCategories">0</span>
+            <span>投资分类</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="nav-tabs">
+    <div class="container nav-tabs-container">
+      <div class="nav-tabs-wrapper" id="navTabs"></div>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="container">
+      <div id="contentArea"></div>
+      <div id="noResults" class="no-results" style="display: none;">
+        <div class="no-results-icon">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="m21 21-4.35-4.35"></path>
+          </svg>
+        </div>
+        <h3>未找到相关结果</h3>
+        <p>请尝试其他关键词进行搜索</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <p>© 2002-2026 51invest.com 投资导航 - 全球投资理财平台一站式导航</p>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="backToTop" title="返回顶部">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+
+  <script src="data.js"></script>
+  <script>
+    const iconSVGs = {
+      tag: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>',
+      newspaper: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"></path><path d="M18 14h-8"></path><path d="M15 18h-5"></path><path d="M10 6h8v4h-8V6Z"></path></svg>',
+      'stocks-us': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>',
+      'stocks-hk': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>',
+      'stocks-cn': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>',
+      etf: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"></path><circle cx="12" cy="12" r="3"></circle></svg>',
+      bond: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="M7 15h2"></path><path d="M11 15h2"></path><path d="M15 15h2"></path></svg>',
+      'fixed-income': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path><line x1="6" y1="12" x2="6" y2="12"></line><line x1="6" y1="8" x2="6" y2="8"></line></svg>',
+      futures: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path><path d="M8 12h8"></path></svg>',
+      'index-futures': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18"></path><path d="M18 9l-5 5-4-4-3 3"></path></svg>',
+      energy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path></svg>',
+      'precious-metals': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>',
+      'base-metals': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>',
+      agriculture: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 10a4 4 0 0 0-4 4H2"></path><path d="M12 10a4 4 0 0 1 4 4H6"></path><path d="M12 10v12"></path><path d="M6 22h12"></path><path d="M4 14h16"></path></svg>',
+      forex: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>',
+      realestate: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>',
+      insurance: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><polyline points="9 12 11 14 15 10"></polyline></svg>',
+      banking: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18"></path><path d="M3 10h18"></path><path d="M5 6l7-3 7 3"></path><path d="M4 10v11"></path><path d="M20 10v11"></path><path d="M8 10v11"></path><path d="M12 10v11"></path><path d="M16 10v11"></path></svg>',
+      crypto: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
+      defi: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line><path d="M7 8h10"></path><path d="M7 12h10"></path></svg>',
+      nft: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>',
+      fund: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>',
+      tools: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>',
+      default: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>'
+    };
+
+    let currentCategory = 'news';
+
+    function init() {
+      renderStats();
+      renderNavTabs();
+      handleHashChange();
+      setupSearch();
+      setupBackToTop();
+      window.addEventListener('hashchange', handleHashChange);
+    }
+
+    function renderStats() {
+      document.getElementById('totalLinks').textContent = getTotalLinkCount();
+      document.getElementById('totalCategories').textContent = siteData.categories.length;
+    }
+
+    function getIcon(iconName) {
+      return iconSVGs[iconName] || iconSVGs.default;
+    }
+
+    function renderNavTabs() {
+      const navTabs = document.getElementById('navTabs');
+      let html = '';
+
+      siteData.categories.forEach(cat => {
+        const count = getCategoryLinkCount(cat.id);
+        html += `<div class="nav-tab ${cat.id === 'tags' ? 'active' : ''}" data-category="${cat.id}"><span class="nav-icon">${getIcon(cat.icon)}</span>${cat.name}<span class="count">${count}</span></div>`;
+      });
+
+      navTabs.innerHTML = html;
+
+      navTabs.querySelectorAll('.nav-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          const category = tab.dataset.category;
+          navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          currentCategory = category;
+          window.location.hash = category;
+        });
+      });
+    }
+
+    function handleHashChange() {
+      const hash = window.location.hash.slice(1);
+      const navTabs = document.getElementById('navTabs');
+
+      if (!hash || hash === 'news') {
+        currentCategory = 'news';
+        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        const newsTab = navTabs.querySelector('[data-category="news"]');
+        if (newsTab) newsTab.classList.add('active');
+        renderCategory('news');
+        return;
+      }
+
+      if (hash === 'all') {
+        currentCategory = 'all';
+        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        navTabs.querySelector('[data-category="tags"]')?.classList.add('active');
+        renderAllCategories();
+        return;
+      }
+
+      if (hash === 'tags') {
+        currentCategory = 'tags';
+        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        navTabs.querySelector('[data-category="tags"]').classList.add('active');
+        renderTagsPage();
+        return;
+      }
+
+      if (hash.startsWith('tag-')) {
+        currentCategory = 'tags';
+        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        navTabs.querySelector('[data-category="tags"]').classList.add('active');
+        const tagName = decodeURIComponent(hash.replace('tag-', ''));
+        renderTagLinks(tagName);
+        return;
+      }
+
+      const targetTab = navTabs.querySelector(`[data-category="${hash}"]`);
+      if (targetTab) {
+        currentCategory = hash;
+        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        targetTab.classList.add('active');
+        renderCategory(hash);
+      } else if (hash === 'search') {
+        return;
+      }
+    }
+
+    function renderAllCategories() {
+      const contentArea = document.getElementById('contentArea');
+      const noResults = document.getElementById('noResults');
+      contentArea.style.display = 'block';
+      noResults.style.display = 'none';
+
+      const categories = siteData.categories.filter(cat => cat.id !== 'tags');
+
+      let html = '';
+      categories.forEach(cat => {
+        const links = getLinksByCategory(cat.id);
+        if (links.length > 0) {
+          html += renderCategorySection(cat, links);
+        }
+      });
+      contentArea.innerHTML = html;
+      attachCardListeners();
+    }
+
+    function renderCategory(categoryId) {
+      const contentArea = document.getElementById('contentArea');
+      const noResults = document.getElementById('noResults');
+      const category = siteData.categories.find(c => c.id === categoryId);
+
+      if (!category) return;
+
+      const links = getLinksByCategory(categoryId);
+
+      if (links.length === 0) {
+        contentArea.style.display = 'none';
+        noResults.style.display = 'block';
+        return;
+      }
+
+      contentArea.style.display = 'block';
+      noResults.style.display = 'none';
+      contentArea.innerHTML = renderCategorySection(category, links);
+      attachCardListeners();
+
+      setTimeout(() => {
+        const section = document.getElementById(categoryId);
+        if (section) {
+          const headerHeight = document.querySelector('.header').offsetHeight + document.querySelector('.nav-tabs').offsetHeight + 20;
+          window.scrollTo({ top: section.offsetTop - headerHeight, behavior: 'smooth' });
+        }
+      }, 100);
+    }
+
+    function renderTagsPage() {
+      const contentArea = document.getElementById('contentArea');
+      const noResults = document.getElementById('noResults');
+      contentArea.style.display = 'block';
+      noResults.style.display = 'none';
+
+      const tags = getAllTags();
+      let html = `
+        <section class="category-section" id="tags">
+          <div class="category-header">
+            <div class="category-icon icon-tags">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
+            </div>
+            <div class="category-info">
+              <h2>全部标签</h2>
+              <p>点击标签查看所有相关外链</p>
+            </div>
+            <span class="category-count">${tags.length} 个标签</span>
+          </div>
+          <div class="tags-cloud">
+      `;
+
+      tags.forEach(tag => {
+        html += `<a href="#tag-${encodeURIComponent(tag.name)}" class="tag-item" data-tag="${tag.name}">${tag.name} <span class="tag-count">${tag.count}</span></a>`;
+      });
+
+      html += `
+          </div>
+        </section>
+      `;
+
+      contentArea.innerHTML = html;
+
+      document.querySelectorAll('.tag-item').forEach(tagEl => {
+        tagEl.addEventListener('click', (e) => {
+          e.preventDefault();
+          const tagName = tagEl.dataset.tag;
+          window.location.hash = `tag-${encodeURIComponent(tagName)}`;
+        });
+      });
+    }
+
+    function renderTagLinks(tagName) {
+      const contentArea = document.getElementById('contentArea');
+      const noResults = document.getElementById('noResults');
+      const links = getLinksByTag(tagName);
+
+      if (links.length === 0) {
+        contentArea.style.display = 'none';
+        noResults.style.display = 'block';
+        return;
+      }
+
+      contentArea.style.display = 'block';
+      noResults.style.display = 'none';
+
+      let html = `
+        <section class="category-section" id="tag-${tagName}">
+          <div class="category-header">
+            <a href="#tags" class="back-link">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><polyline points="15 18 9 12 15 6"></polyline></svg>
+              返回标签
+            </a>
+          </div>
+          <div class="category-header" style="margin-top: 10px;">
+            <div class="category-icon icon-tags">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
+            </div>
+            <div class="category-info">
+              <h2>标签：${tagName}</h2>
+              <p>包含 ${links.length} 个相关外链</p>
+            </div>
+          </div>
+          <div class="links-grid">
+      `;
+
+      links.forEach(link => {
+        html += renderLinkCard(link);
+      });
+
+      html += `
+          </div>
+        </section>
+      `;
+
+      contentArea.innerHTML = html;
+      attachCardListeners();
+    }
+
+    function renderCategorySection(category, links) {
+      let html = `
+        <section class="category-section" id="${category.id}">
+          <div class="category-header">
+            <div class="category-icon icon-${category.id}">${getIcon(category.icon)}</div>
+            <div class="category-info">
+              <h2>${category.name}</h2>
+              <p>${category.description}</p>
+            </div>
+            <span class="category-count">${links.length} 个站点</span>
+          </div>
+          <div class="links-grid">
+      `;
+
+      links.forEach(link => {
+        html += renderLinkCard(link);
+      });
+
+      html += `
+          </div>
+        </section>
+      `;
+
+      return html;
+    }
+
+    function renderLinkCard(link) {
+      const icon = getIcon(link.category) || iconSVGs.default;
+      let tagsHtml = '';
+      link.tags.slice(0, 3).forEach(tag => {
+        tagsHtml += `<span class="tag">${tag}</span>`;
+      });
+
+      return `
+        <a href="${link.url}" target="_blank" rel="noopener noreferrer" class="link-card ${link.recommended ? 'recommended' : ''}">
+          <div class="link-card-header">
+            <div class="link-favicon">${icon}</div>
+            <div class="link-info">
+              <div class="link-name">${link.name}</div>
+              <div class="link-region">${link.region}</div>
+            </div>
+          </div>
+          <div class="link-description">${link.description}</div>
+          <div class="link-tags">${tagsHtml}</div>
+        </a>
+      `;
+    }
+
+    function attachCardListeners() {
+      document.querySelectorAll('.link-card').forEach(card => {
+        card.addEventListener('click', () => {});
+      });
+    }
+
+    function setupSearch() {
+      const searchInput = document.getElementById('searchInput');
+      let debounceTimer;
+
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          const keyword = e.target.value.trim();
+          if (keyword) {
+            window.location.hash = 'search';
+            searchAndDisplay(keyword);
+          } else {
+            handleHashChange();
+          }
+        }, 300);
+      });
+
+      searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+          clearTimeout(debounceTimer);
+          const keyword = e.target.value.trim();
+          if (keyword) {
+            window.location.hash = 'search';
+            searchAndDisplay(keyword);
+          } else {
+            handleHashChange();
+          }
+        }
+      });
+    }
+
+    function searchAndDisplay(keyword) {
+      const results = searchLinks(keyword);
+      const contentArea = document.getElementById('contentArea');
+      const noResults = document.getElementById('noResults');
+
+      if (results.length === 0) {
+        contentArea.style.display = 'none';
+        noResults.style.display = 'block';
+        return;
+      }
+
+      contentArea.style.display = 'block';
+      noResults.style.display = 'none';
+
+      const groupedResults = {};
+      results.forEach(link => {
+        if (!groupedResults[link.category]) {
+          groupedResults[link.category] = [];
+        }
+        groupedResults[link.category].push(link);
+      });
+
+      let html = '';
+      for (const categoryId in groupedResults) {
+        const category = siteData.categories.find(c => c.id === categoryId);
+        if (category) {
+          html += renderCategorySection(category, groupedResults[categoryId]);
+        }
+      }
+
+      contentArea.innerHTML = html;
+      attachCardListeners();
+    }
+
+    function setupBackToTop() {
+      const backToTopBtn = document.getElementById('backToTop');
+
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 400) {
+          backToTopBtn.classList.add('visible');
+        } else {
+          backToTopBtn.classList.remove('visible');
+        }
+      });
+
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
