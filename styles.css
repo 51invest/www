@@ -405,17 +405,35 @@ a {
 .tag-item {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 16px;
+  gap: 8px;
+  padding: 10px 18px;
   background: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-lg);
   font-size: 13px;
   color: var(--secondary-color);
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.25s ease;
   cursor: pointer;
   box-shadow: var(--shadow-sm);
+  position: relative;
+  overflow: hidden;
+}
+
+.tag-item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, var(--accent-color) 0%, #f6ad55 100%);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.tag-item:hover::before {
+  opacity: 1;
 }
 
 .tag-item:hover {
@@ -424,6 +442,22 @@ a {
   border-color: var(--primary-color);
   transform: translateY(-3px);
   box-shadow: var(--shadow-md);
+  padding-left: 22px;
+}
+
+.tag-item .tag-icon {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.tag-item .tag-icon svg {
+  width: 14px;
+  height: 14px;
+  opacity: 0.85;
 }
 
 .tag-item .tag-count {
@@ -433,6 +467,8 @@ a {
   font-size: 11px;
   color: var(--text-muted);
   font-weight: 600;
+  min-width: 22px;
+  text-align: center;
 }
 
 .tag-item:hover .tag-count {
@@ -440,19 +476,19 @@ a {
   color: white;
 }
 
-.tags-cloud .tag-item.tag-large {
+.tag-item.tag-large {
   font-size: 14px;
-  padding: 10px 20px;
+  padding: 12px 22px;
 }
 
-.tags-cloud .tag-item.tag-medium {
+.tag-item.tag-medium {
   font-size: 13px;
-  padding: 8px 16px;
+  padding: 10px 18px;
 }
 
-.tags-cloud .tag-item.tag-small {
+.tag-item.tag-small {
   font-size: 12px;
-  padding: 6px 12px;
+  padding: 8px 14px;
 }
 
 .back-link {
@@ -472,97 +508,42 @@ a {
   color: var(--accent-color);
 }
 
-.icon-tags {
-  background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%);
-}
+.icon-tags { background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%); }
+.icon-news { background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); }
+.icon-stocks-cn { background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%); }
+.icon-stocks-hk { background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%); }
+.icon-stocks-us { background: linear-gradient(135deg, #3182ce 0%, #2b6cb0 100%); }
+.icon-funds, .icon-fund { background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); }
+.icon-etf { background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); }
+.icon-bonds, .icon-bond { background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%); }
+.icon-fixed-income { background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%); }
+.icon-futures { background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%); }
+.icon-index-futures { background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%); }
+.icon-energy { background: linear-gradient(135deg, #fc8181 0%, #f56565 100%); }
+.icon-precious-metals { background: linear-gradient(135deg, #f6e05e 0%, #d69e2e 100%); }
+.icon-base-metals { background: linear-gradient(135deg, #a0aec0 0%, #718096 100%); }
+.icon-agriculture { background: linear-gradient(135deg, #68d391 0%, #48bb78 100%); }
+.icon-forex { background: linear-gradient(135deg, #4fd1c5 0%, #38b2ac 100%); }
+.icon-realestate { background: linear-gradient(135deg, #f687b3 0%, #ed64a6 100%); }
+.icon-insurance { background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); }
+.icon-banking { background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); }
+.icon-crypto { background: linear-gradient(135deg, #f6e05e 0%, #d69e2e 100%); }
+.icon-defi { background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%); }
+.icon-nft { background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%); }
+.icon-tools { background: linear-gradient(135deg, #a0aec0 0%, #718096 100%); }
 
-.icon-news {
-  background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
-}
-
-.icon-stocks-cn {
-  background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%);
-}
-
-.icon-stocks-hk {
-  background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%);
-}
-
-.icon-stocks-us {
-  background: linear-gradient(135deg, #3182ce 0%, #2b6cb0 100%);
-}
-
-.icon-funds, .icon-fund {
-  background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
-}
-
-.icon-etf {
-  background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
-}
-
-.icon-bonds, .icon-bond {
-  background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%);
-}
-
-.icon-fixed-income {
-  background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%);
-}
-
-.icon-futures {
-  background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%);
-}
-
-.icon-index-futures {
-  background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%);
-}
-
-.icon-energy {
-  background: linear-gradient(135deg, #fc8181 0%, #f56565 100%);
-}
-
-.icon-precious-metals {
-  background: linear-gradient(135deg, #f6e05e 0%, #d69e2e 100%);
-}
-
-.icon-base-metals {
-  background: linear-gradient(135deg, #a0aec0 0%, #718096 100%);
-}
-
-.icon-agriculture {
-  background: linear-gradient(135deg, #68d391 0%, #48bb78 100%);
-}
-
-.icon-forex {
-  background: linear-gradient(135deg, #4fd1c5 0%, #38b2ac 100%);
-}
-
-.icon-realestate {
-  background: linear-gradient(135deg, #f687b3 0%, #ed64a6 100%);
-}
-
-.icon-insurance {
-  background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
-}
-
-.icon-banking {
-  background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
-}
-
-.icon-crypto {
-  background: linear-gradient(135deg, #f6e05e 0%, #d69e2e 100%);
-}
-
-.icon-defi {
-  background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%);
-}
-
-.icon-nft {
-  background: linear-gradient(135deg, #ed64a6 0%, #d53f8c 100%);
-}
-
-.icon-tools {
-  background: linear-gradient(135deg, #a0aec0 0%, #718096 100%);
-}
+.icon-pe-vc { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+.icon-retirement { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+.icon-personal-finance { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+.icon-payment { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+.icon-trust { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+.icon-accounting { background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); }
+.icon-credit { background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); }
+.icon-reits { background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); }
+.icon-options { background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); }
+.icon-alternative { background: linear-gradient(135deg, #fccb90 0%, #ee9ca7 100%); }
+.icon-education { background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); }
+.icon-regulators { background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); }
 
 .footer {
   background: var(--primary-color);
@@ -632,14 +613,13 @@ a {
 }
 
 @keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(6px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes tagPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.02); }
 }
 
 .category-section {
@@ -647,9 +627,7 @@ a {
 }
 
 @media (max-width: 1200px) {
-  .links-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
+  .links-grid { grid-template-columns: repeat(4, 1fr); }
 }
 
 @media (max-width: 1024px) {
@@ -663,33 +641,20 @@ a {
     width: 100%;
   }
 
-  .stats {
-    justify-content: center;
-  }
+  .stats { justify-content: center; }
 
   .nav-tabs {
     top: auto;
     position: relative;
   }
 
-  .category-section {
-    scroll-margin-top: 20px;
-  }
+  .category-section { scroll-margin-top: 20px; }
 
-  .links-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .footer-content {
-    flex-direction: column;
-    gap: 16px;
-  }
+  .links-grid { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media (max-width: 768px) {
-  .header {
-    padding: 12px 0;
-  }
+  .header { padding: 12px 0; }
 
   .logo-icon {
     width: 32px;
@@ -697,35 +662,19 @@ a {
     font-size: 16px;
   }
 
-  .logo-text h1 {
-    font-size: 16px;
-  }
+  .logo-text h1 { font-size: 16px; }
 
-  .stats {
-    gap: 12px;
-  }
-
-  .stat-value {
-    font-size: 16px;
-  }
+  .stats { gap: 12px; }
+  .stat-value { font-size: 16px; }
 
   .nav-tab {
     padding: 4px 10px;
     font-size: 11px;
   }
 
-  .main-content {
-    padding: 12px 0;
-  }
-
-  .category-section {
-    margin-bottom: 16px;
-  }
-
-  .category-header {
-    margin-bottom: 8px;
-    padding-bottom: 6px;
-  }
+  .main-content { padding: 12px 0; }
+  .category-section { margin-bottom: 16px; }
+  .category-header { margin-bottom: 8px; padding-bottom: 6px; }
 
   .category-icon {
     width: 28px;
@@ -733,47 +682,20 @@ a {
     font-size: 14px;
   }
 
-  .category-icon svg {
-    width: 16px;
-    height: 16px;
-  }
-
-  .category-info h2 {
-    font-size: 13px;
-  }
-
-  .category-count {
-    display: none;
-  }
+  .category-icon svg { width: 16px; height: 16px; }
+  .category-info h2 { font-size: 13px; }
+  .category-count { display: none; }
 
   .links-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 8px;
   }
 
-  .link-card {
-    padding: 8px;
-  }
-
-  .link-favicon {
-    width: 24px;
-    height: 24px;
-    font-size: 12px;
-  }
-
-  .link-favicon svg {
-    width: 14px;
-    height: 14px;
-  }
-
-  .link-name {
-    font-size: 11px;
-  }
-
-  .link-description {
-    font-size: 10px;
-    -webkit-line-clamp: 1;
-  }
+  .link-card { padding: 8px; }
+  .link-favicon { width: 24px; height: 24px; font-size: 12px; }
+  .link-favicon svg { width: 14px; height: 14px; }
+  .link-name { font-size: 11px; }
+  .link-description { font-size: 10px; -webkit-line-clamp: 1; }
 
   .back-to-top {
     bottom: 12px;
@@ -785,49 +707,24 @@ a {
 }
 
 @media (max-width: 480px) {
-  .container {
-    padding: 0 8px;
-  }
+  .container { padding: 0 8px; }
 
-  .links-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .links-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .link-card { padding: 6px; gap: 4px; }
+  .link-card .link-tags { display: none; }
+
+  .nav-tabs-wrapper { gap: 3px; }
+  .nav-tab { padding: 4px 8px; font-size: 10px; }
+  .nav-tab .count { display: none; }
+  .nav-tab .nav-icon { width: 12px; height: 12px; }
+
+  .tag-item {
+    padding: 6px 12px;
+    font-size: 11px;
     gap: 6px;
   }
 
-  .link-card {
-    padding: 6px;
-    gap: 4px;
-  }
-
-  .link-card .link-tags {
-    display: none;
-  }
-
-  .nav-tabs-wrapper {
-    gap: 3px;
-  }
-
-  .nav-tab {
-    padding: 4px 8px;
-    font-size: 10px;
-  }
-
-  .nav-tab .count {
-    display: none;
-  }
-
-  .nav-tab .nav-icon {
-    width: 12px;
-    height: 12px;
-  }
-
-  .tag-item {
-    padding: 5px 10px;
-    font-size: 11px;
-  }
-
-  .tag-item .tag-count {
-    font-size: 10px;
-    padding: 1px 4px;
-  }
+  .tag-item .tag-icon { width: 14px; height: 14px; }
+  .tag-item .tag-icon svg { width: 12px; height: 12px; }
+  .tag-item .tag-count { font-size: 10px; padding: 1px 5px; min-width: 18px; }
 }

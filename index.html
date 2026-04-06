@@ -103,10 +103,182 @@
       nft: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>',
       fund: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>',
       tools: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>',
+      'pe-vc': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>',
+      retirement: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path><path d="M8 14h8"></path></svg>',
+      'personal-finance': '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0-6 0"></path></svg>',
+      payment: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line></svg>',
+      trust: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>',
+      accounting: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>',
+      credit: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>',
+      reits: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><line x1="9" y1="22" x2="9" y2="12"></line><line x1="15" y1="22" x2="15" y2="12"></line></svg>',
+      options: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>',
+      alternative: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>',
+      education: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>',
+      regulators: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M9 12l2 2 4-4"></path></svg>',
       default: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>'
     };
 
+    const tagIcons = {
+      '财经门户': 'newspaper', '行情': 'tools', '社区': 'tag', '资讯': 'newspaper', '全球': 'forex',
+      '财经媒体': 'newspaper', '终端': 'tools', '英国': 'banking', '美国': 'stocks-us',
+      '杂志': 'education', '经济': 'funds', '券商': 'banking', '开户': 'banking',
+      '资产管理': 'fund', '投行': 'banking', '并购': 'banking', '交易所': 'tools',
+      '期货': 'futures', '综合': 'default', '财富管理': 'personal-finance',
+      '研究': 'education', '零售': 'banking', '创新': 'defi', '新三板': 'stocks-cn',
+      '结算': 'accounting', '登记': 'accounting', '港股': 'stocks-hk', '美股': 'stocks-us',
+      '0佣金': 'crypto', '中文': 'newspaper', '低佣金': 'forex', '信息披露': 'regulators',
+      '公告': 'news', '基金销售': 'fund', '净值': 'funds', '支付宝': 'payment',
+      '基金组合': 'fund', '智能投顾': 'tools', '私募基金': 'pe-vc', '数据': 'tools',
+      '基金评级': 'education', '资管': 'fund', 'ETF': 'etf', '指数': 'etf',
+      '指数基金': 'fund', '低费率': 'personal-finance', '核心': 'default',
+      '黄金': 'precious-metals', '贵金属': 'precious-metals', '债券': 'bond', '固收': 'bond',
+      '杠杆': 'options', '反向': 'options', '期权交易所': 'options', 'VIX': 'options',
+      '教育': 'education', '策略': 'options', '交易平台': 'tools', '专业': 'tools',
+      '工具': 'tools', '可视化': 'tools', '波动率': 'options', '国债': 'bonds',
+      '美债': 'bonds', '中国企业债': 'bonds', '信用评级': 'credit', '中国': 'stocks-cn',
+      '债券基金': 'bond', '产品': 'default', '平台': 'realestate', 'REIT': 'reits',
+      '商业地产REIT': 'realestate', '物流地产REIT': 'realestate', '数据中心REIT': 'crypto',
+      '住宅REIT': 'realestate', '亚洲': 'forex', '零售': 'realestate', '购物中心': 'realestate',
+      '期指': 'index-futures', '股指期货': 'index-futures', '纳斯达克': 'stocks-us', '道琼斯': 'stocks-cn',
+      '欧洲': 'forex', 'DAX': 'stocks-cn', '恒指': 'stocks-hk', '新加坡': 'banking',
+      '日本': 'forex', '日经': 'stocks-cn', '大宗商品': 'commodities', '图表': 'tools',
+      '分析': 'tools', '新闻': 'news', '钢铁': 'base-metals', '价格': 'energy',
+      '农产品': 'agriculture', '原油': 'energy', '能源': 'energy', '天然气': 'energy',
+      '能源数据': 'default', '外汇经纪商': 'forex', 'CFD': 'forex', '瑞士': 'banking',
+      '社交交易': 'crypto', '股票': 'stocks-cn', '澳大利亚': 'forex', 'ECN': 'forex',
+      '央行': 'banking', '美元': 'forex', '欧元': 'forex', '日元': 'forex',
+      '人民币': 'forex', '英镑': 'forex', '汇率': 'forex', '转换': 'tools',
+      '房产': 'realestate', '中介': 'realestate', 'MLS': 'realestate', '科技': 'crypto',
+      '生活服务': 'default', '海外': 'realestate', '投资': 'fund', '保险公司': 'insurance',
+      '亚太': 'forex', '德国': 'banking', '法国': 'banking', '再保险': 'insurance',
+      '互联网': 'crypto', '保险平台': 'insurance', '信用卡': 'payment', '支付网络': 'payment',
+      '银行卡': 'payment', '商户支付': 'payment', 'POS': 'payment', '移动支付': 'payment',
+      'NFC': 'payment', '跨境支付': 'payment', '收款': 'payment', '金融科技': 'crypto',
+      '聚合支付': 'payment', '开发者': 'tools', '家族信托': 'trust', '家族办公室': 'trust',
+      '资产托管': 'accounting', '托管银行': 'banking', '四大': 'accounting',
+      '会计师事务所': 'accounting', '征信': 'credit', '信用报告': 'credit',
+      '信用分数': 'credit', '监控': 'tools', '私募股权': 'pe-vc', '风险投资': 'pe-vc',
+      'VC': 'pe-vc', '科技': 'crypto', '战略投资': 'pe-vc', '早期': 'pe-vc',
+      '初创公司': 'crypto', '融资': 'fund', '401k': 'retirement', '退休计划': 'retirement',
+      'IRA': 'retirement', '退休账户': 'retirement', '社保': 'retirement', '养老金': 'retirement',
+      '公积金': 'realestate', '住房': 'realestate', '学术': 'education', '公务员': 'banking',
+      '养老基金': 'retirement', '主权基金': 'fund', '指南': 'education', '计算器': 'tools',
+      '规划工具': 'tools', '记账': 'personal-finance', '预算': 'personal-finance',
+      'APP': 'crypto', '信用卡': 'payment', '贷款': 'banking', '债务': 'personal-finance',
+      '理财专家': 'education', '省钱': 'personal-finance', '理财': 'personal-finance',
+      '加密货币': 'crypto', '交易所': 'crypto', '合约': 'defi', '币币交易': 'crypto',
+      '合规': 'regulators', '市值': 'crypto', '链上分析': 'defi', 'DEX': 'defi',
+      'Swap': 'defi', '以太坊': 'crypto', 'BSC': 'crypto', '流动性挖矿': 'defi',
+      '稳定币': 'bond', '借贷': 'defi', '质押': 'crypto', 'ETH2.0': 'crypto',
+      '钱包': 'crypto', '移动端': 'mobile', '硬件钱包': 'crypto', '安全': 'security',
+      'TVL': 'defi', '聚合器': 'defi', 'AMM': 'defi', '收益聚合器': 'defi',
+      'Yield': 'fund', '合成资产': 'alternative', '永续合约': 'futures', '数字藏品': 'nft',
+      '艺术': 'alternative', '创作': 'nft', '代币激励': 'crypto', 'Solana': 'crypto',
+      '浏览器': 'tools', '销量': 'commodities', '对冲基金': 'alternative', '宏观': 'tools',
+      '量化': 'tools', '艺术品': 'alternative', '拍卖': 'alternative', '碎片化': 'crypto',
+      '众筹': 'pe-vc', '收藏品': 'alternative', '评级': 'credit', '葡萄酒': 'agriculture',
+      '钻石': 'precious-metals', '报价': 'energy', '在线课程': 'education', '大学': 'education',
+      '名校': 'education', '免费课程': 'education', '基础': 'education', '讨论': 'community',
+      '英文': 'newspaper', '散户': 'stocks-cn', 'meme': 'crypto', '视频': 'education',
+      '教程': 'education', 'CFA': 'education', '考试': 'education', '认证': 'education',
+      'FRM': 'education', '风险管理': 'tools', 'CIMA': 'education', '资产管理': 'fund',
+      '从业资格': 'education', '知识付费': 'payment', '监管': 'regulators', '证券': 'stocks-cn',
+      '金融': 'banking', '欧盟': 'forex', '国际': 'global', '存款保险': 'insurance',
+      '银行': 'banking', '商品期货': 'futures', '咖啡': 'agriculture', '糖': 'agriculture',
+      '棉花': 'agriculture', '大豆': 'agriculture', '玉米': 'agriculture', '小麦': 'agriculture',
+      '美国农业部': 'government', '粮油': 'agriculture', '饲料': 'agriculture', '加工': 'industry',
+      '粮商': 'agriculture', 'OPEC': 'energy', 'EIA': 'government', 'IEA': 'government',
+      '布伦特原油': 'energy', 'WTI原油': 'energy', '上海能源交易中心': 'energy',
+      '咨询': 'consulting', '矿产': 'mining', '伦敦金银市场': 'precious-metals', '定价': 'pricing',
+      '伦敦金属交易所': 'base-metals', '铜': 'base-metals', '铝': 'base-metals', '金属': 'base-metals',
+      '矿业': 'mining', '铜业': 'base-metals', '铁矿石': 'mining', '白银协会': 'precious-metals',
+      '铂金': 'precious-metals', '钯金': 'precious-metals', 'COMEX': 'futures', '上海黄金交易所': 'precious-metals',
+      '中国黄金网': 'news', '矿业公司': 'mining', '黄金': 'precious-metals', 'CBOT': 'futures',
+      'ICE': 'futures', '大连商品交易所': 'futures', '郑州商品交易所': 'futures',
+      'USDA': 'government', '天下粮仓': 'agriculture', 'IG': 'forex', 'OANDA': 'forex',
+      'eToro': 'social-trading', '瑞讯银行': 'banking', 'XM': 'forex', 'FXCM': 'forex',
+      'IC Markets': 'forex', 'FP Markets': 'forex', 'Pepperstone': 'forex', '美联储': 'central-bank',
+      '欧洲央行': 'central-bank', '日本央行': 'central-bank', '中国人民银行': 'central-bank',
+      '英格兰银行': 'central-bank', 'Investing': 'platforms', 'XE': 'tools', 'TradingView': 'tools',
+      'DailyFX': 'forex', 'BabyPips': 'education', '贝壳': 'realestate', '链家': 'realestate',
+      '安居客': 'realestate', 'Zillow': 'realestate', 'Realtor.com': 'realestate', 'Rightmove': 'realestate',
+      'Redfin': 'realestate', '58同城': 'services', '房天下': 'realestate', 'Zoopla': 'realestate',
+      'Trulia': 'realestate', '居外': 'realestate', '有路': 'realestate', '中国平安': 'insurance',
+      '中国人寿': 'insurance', '中国太保': 'insurance', '泰康保险': 'insurance',
+      '新华保险': 'insurance', '人保寿险': 'insurance', 'MetLife': 'insurance',
+      'AIA': 'insurance', 'Allianz': 'insurance', 'AXA': 'insurance', 'Prudential': 'insurance',
+      '慕尼黑再保险': 'insurance', '瑞士再保险': 'insurance', '中国再保险集团': 'insurance',
+      '慧择保险': 'insurance', '众安保险': 'insurance', '工商银行': 'banking', '建设银行': 'banking',
+      '中国银行': 'banking', '农业银行': 'banking', '招商银行': 'banking', '交通银行': 'banking',
+      '浦发银行': 'banking', '民生银行': 'banking', '兴业银行': 'banking', '汇丰银行': 'banking',
+      '花旗银行': 'banking', '摩根大通': 'banking', '瑞银': 'banking', '渣打银行': 'banking',
+      '星展银行': 'banking', '美国银行': 'banking', '富国银行': 'banking', '三菱日联': 'banking',
+      '网上银行': 'banking', '微众银行': 'banking', '网商银行': 'banking', '新网银行': 'banking',
+      '百信银行': 'banking', '币安': 'crypto', 'Coinbase': 'crypto', 'OKX': 'crypto',
+      '火币HTX': 'crypto', 'Gate.io': 'crypto', 'Kraken': 'crypto', 'Bybit': 'crypto',
+      'Bitget': 'crypto', 'KuCoin': 'crypto', 'Bitstamp': 'crypto', 'Gemini': 'crypto',
+      'CoinMarketCap': 'crypto', 'CoinGecko': 'crypto', 'Messari': 'crypto', 'Glassnode': 'defi',
+      'CryptoCompare': 'crypto', 'CoinDesk Indices': 'crypto', 'Bitcoin.org': 'crypto',
+      'Ethereum': 'crypto', 'Uniswap': 'defi', 'PancakeSwap': 'defi', 'Curve': 'defi',
+      'Aave': 'defi', 'Compound': 'defi', 'MakerDAO': 'defi', 'Lido': 'defi',
+      'MetaMask': 'crypto', 'Trust Wallet': 'crypto', 'Ledger': 'crypto', 'Trezor': 'crypto',
+      'DeFi Llama': 'defi', '1inch': 'defi', 'Balancer': 'defi', 'OpenSea': 'nft',
+      'Blur': 'nft', 'Magic Eden': 'nft', 'LooksRare': 'nft', 'Rarible': 'nft',
+      'Foundation': 'nft', '腾讯幻核': 'nft', '鲸探': 'nft', 'iBox': 'nft',
+      '唯一艺术': 'nft', 'NFTScan': 'tools', 'CryptoSlam': 'nft', '黑石集团': 'pe-vc',
+      'KKR': 'pe-vc', '凯雷': 'pe-vc', '红杉资本': 'pe-vc', '软银愿景基金': 'pe-vc',
+      '腾讯投资': 'pe-vc', '高瓴资本': 'pe-vc', '红杉中国': 'pe-vc', 'IDG资本': 'pe-vc',
+      '经纬中国': 'pe-vc', '今日资本': 'pe-vc', 'PitchBook': 'tools', 'Crunchbase': 'tools',
+      '清科研究中心': 'tools', '投中网': 'news', 'Social Security': 'retirement',
+      'Fidelity 401k': 'retirement', 'Vanguard IRA': 'retirement', 'Schwab退休规划': 'retirement',
+      '中国社会保障卡': 'retirement', '全国住房公积金': 'retirement', 'TIAA': 'retirement',
+      'CalPERS': 'retirement', '全国社会保障基金理事会': 'retirement', 'IRA.com': 'retirement',
+      'NerdWallet': 'personal-finance', '随手记': 'personal-finance', '挖财记账': 'personal-finance',
+      'Mint': 'personal-finance', 'YNAB': 'personal-finance', 'Personal Capital': 'personal-finance',
+      'Credit Karma': 'credit', '雪球理财': 'fund', '且慢基金组合': 'fund',
+      '支付宝理财': 'payment', '微信理财通': 'payment', 'Dave Ramsey': 'personal-finance',
+      'The Simple Dollar': 'personal-finance', 'MoneySavingExpert': 'personal-finance', '理杏仁': 'tools',
+      '支付宝Alipay': 'payment', '微信支付WeChat Pay': 'payment', 'PayPal': 'payment',
+      'Stripe': 'payment', 'Visa': 'payment', 'Mastercard': 'payment', '银联UnionPay': 'payment',
+      'Square Block': 'payment', 'Apple Pay': 'payment', 'Google Pay': 'payment',
+      'Payoneer': 'payment', 'Airwallex': 'payment', '连连支付': 'payment', 'Ping++': 'payment',
+      '汇付天下': 'payment', '中信信托': 'trust', '平安信托': 'trust', '华润信托': 'trust',
+      '外贸信托': 'trust', '五矿信托': 'trust', '瑞士信托UBS Trust': 'trust',
+      'Northern Trust': 'trust', 'BNY Mellon': 'banking', 'State Street': 'fund',
+      '中国信托业协会': 'trust', '普华永道PwC': 'accounting', '德勤Deloitte': 'accounting',
+      '安永EY': 'accounting', '毕马威KPMG': 'accounting', '立信会计师事务所': 'accounting',
+      '瑞华会计师事务所': 'accounting', '天健会计师事务所': 'accounting', '致同会计师事务所Grant Thornton': 'accounting',
+      'BDO立信国际': 'accounting', '中国注册会计师协会CICPA': 'accounting',
+      '中国人民银行征信中心': 'credit', '芝麻信用Zhima Credit': 'credit', 'Experian益博睿': 'credit',
+      'Equifax艾奎法克斯': 'credit', 'TransUnion环联': 'credit', '百行征信': 'credit',
+      '前海征信': 'credit', 'FICO信用评分': 'credit', '桥水基金Bridgewater Associates': 'alternative',
+      'Two Sigma': 'alternative', '文艺复兴科技Renaissance Technologies': 'alternative',
+      '苏富比Sotheby\'s': 'alternative', '佳士得Christie\'s': 'alternative', 'Masterworks': 'alternative',
+      'Yieldstreet': 'alternative', 'Fundrise房地产众筹': 'reits', 'Collectors Universe收藏品鉴定': 'alternative',
+      'Heritage Auctions': 'alternative', 'Liv-ex葡萄酒投资': 'alternative', 'RAPAPORT钻石投资': 'alternative',
+      'Coursera金融课程': 'education', 'edX金融课程': 'education', 'Khan Academy可汗学院': 'education',
+      '知乎投资话题': 'community', '豆瓣理财小组': 'community', 'Reddit r/investing': 'community',
+      'Reddit r/wallstreetbets WSB': 'community', 'Bilibili投资UP主': 'education',
+      'YouTube投资频道': 'education', 'CFA Institute特许金融分析师': 'education',
+      'CFA Level 1备考': 'education', 'FRM金融风险管理师': 'education', 'CIMA特许资产管理师': 'education',
+      '中国证券业协会考试': 'education', '基金从业资格考试': 'education', '期货从业资格考试': 'education',
+      '得到App投资课': 'education', '极客时间': 'education', '中国证监会CSRC': 'regulators',
+      '美国SEC证券交易委员会': 'regulators', '英国FCA金融行为监管局': 'regulators',
+      '香港证监会SFC': 'regulators', '日本FSA金融厅': 'regulators', '新加坡MAS金融管理局': 'regulators',
+      '欧盟ESMA欧洲证券和市场管理局': 'regulators', '国际清算银行BIS': 'regulators',
+      '中国国家金融监督管理总局NFRA': 'regulators', '美国CFTC商品期货交易委员会': 'regulators',
+      '美国FDIC联邦存款保险公司': 'regulators', 'IOSCO国际证监会组织': 'regulators',
+      'MetaTrader': 'tools', '通达信': 'tools', '同花顺': 'tools', 'Wind万得Wind终端': 'tools',
+      '东方财富Choice': 'tools', 'Bloomberg Terminal彭博终端': 'tools', 'Reuters Refinitiv路孚特': 'tools',
+      'Finviz': 'tools', 'Yahoo Stock Screener': 'tools', 'Portfolio Visualizer': 'tools',
+      'Simply Wall St': 'tools', 'StockAnalysis': 'tools', 'Seeking Alpha Quant': 'tools',
+      'S&P Global Market Intelligence': 'tools', 'Capital IQ S&P Capital IQ企业财务数据平台': 'tools',
+      'MacroTrends': 'tools', 'FRED圣路易斯联储经济数据库': 'tools', '大智慧DZH': 'tools',
+      '萝卜投研': 'tools'
+    };
+
     let currentCategory = 'news';
+    let debounceTimer = null;
 
     function init() {
       renderStats();
@@ -126,26 +298,22 @@
       return iconSVGs[iconName] || iconSVGs.default;
     }
 
+    function getTagIcon(tagName) {
+      const iconKey = tagIcons[tagName] || 'tag';
+      return `<span class="tag-icon">${getIcon(iconKey)}</span>`;
+    }
+
     function renderNavTabs() {
       const navTabs = document.getElementById('navTabs');
       let html = '';
 
       siteData.categories.forEach(cat => {
         const count = getCategoryLinkCount(cat.id);
-        html += `<div class="nav-tab ${cat.id === 'tags' ? 'active' : ''}" data-category="${cat.id}"><span class="nav-icon">${getIcon(cat.icon)}</span>${cat.name}<span class="count">${count}</span></div>`;
+        const isActive = cat.id === 'tags' ? ' active' : '';
+        html += `<div class="nav-tab${isActive}" data-category="${cat.id}"><span class="nav-icon">${getIcon(cat.icon)}</span>${cat.name}<span class="count">${count}</span></div>`;
       });
 
       navTabs.innerHTML = html;
-
-      navTabs.querySelectorAll('.nav-tab').forEach(tab => {
-        tab.addEventListener('click', () => {
-          const category = tab.dataset.category;
-          navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-          tab.classList.add('active');
-          currentCategory = category;
-          window.location.hash = category;
-        });
-      });
     }
 
     function handleHashChange() {
@@ -154,33 +322,28 @@
 
       if (!hash || hash === 'news') {
         currentCategory = 'news';
-        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-        const newsTab = navTabs.querySelector('[data-category="news"]');
-        if (newsTab) newsTab.classList.add('active');
+        setActiveTab(navTabs, 'news');
         renderCategory('news');
         return;
       }
 
       if (hash === 'all') {
         currentCategory = 'all';
-        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-        navTabs.querySelector('[data-category="tags"]')?.classList.add('active');
+        setActiveTab(navTabs, 'tags');
         renderAllCategories();
         return;
       }
 
       if (hash === 'tags') {
         currentCategory = 'tags';
-        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-        navTabs.querySelector('[data-category="tags"]').classList.add('active');
+        setActiveTab(navTabs, 'tags');
         renderTagsPage();
         return;
       }
 
       if (hash.startsWith('tag-')) {
         currentCategory = 'tags';
-        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-        navTabs.querySelector('[data-category="tags"]').classList.add('active');
+        setActiveTab(navTabs, 'tags');
         const tagName = decodeURIComponent(hash.replace('tag-', ''));
         renderTagLinks(tagName);
         return;
@@ -189,12 +352,17 @@
       const targetTab = navTabs.querySelector(`[data-category="${hash}"]`);
       if (targetTab) {
         currentCategory = hash;
-        navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-        targetTab.classList.add('active');
+        setActiveTab(navTabs, hash);
         renderCategory(hash);
-      } else if (hash === 'search') {
-        return;
+      } else if (hash !== 'search') {
+        renderCategory('news');
       }
+    }
+
+    function setActiveTab(navTabs, categoryId) {
+      navTabs.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+      const targetTab = navTabs.querySelector(`[data-category="${categoryId}"]`);
+      if (targetTab) targetTab.classList.add('active');
     }
 
     function renderAllCategories() {
@@ -204,16 +372,12 @@
       noResults.style.display = 'none';
 
       const categories = siteData.categories.filter(cat => cat.id !== 'tags');
-
-      let html = '';
-      categories.forEach(cat => {
+      const html = categories.map(cat => {
         const links = getLinksByCategory(cat.id);
-        if (links.length > 0) {
-          html += renderCategorySection(cat, links);
-        }
-      });
+        return links.length > 0 ? renderCategorySection(cat, links) : '';
+      }).join('');
+
       contentArea.innerHTML = html;
-      attachCardListeners();
     }
 
     function renderCategory(categoryId) {
@@ -234,7 +398,6 @@
       contentArea.style.display = 'block';
       noResults.style.display = 'none';
       contentArea.innerHTML = renderCategorySection(category, links);
-      attachCardListeners();
 
       setTimeout(() => {
         const section = document.getElementById(categoryId);
@@ -252,12 +415,12 @@
       noResults.style.display = 'none';
 
       const tags = getAllTags();
-      let html = `
+      const maxCount = tags.length > 0 ? Math.max(...tags.map(t => t.count)) : 1;
+
+      const html = `
         <section class="category-section" id="tags">
           <div class="category-header">
-            <div class="category-icon icon-tags">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
-            </div>
+            <div class="category-icon icon-tags">${getIcon('tag')}</div>
             <div class="category-info">
               <h2>全部标签</h2>
               <p>点击标签查看所有相关外链</p>
@@ -265,26 +428,15 @@
             <span class="category-count">${tags.length} 个标签</span>
           </div>
           <div class="tags-cloud">
-      `;
-
-      tags.forEach(tag => {
-        html += `<a href="#tag-${encodeURIComponent(tag.name)}" class="tag-item" data-tag="${tag.name}">${tag.name} <span class="tag-count">${tag.count}</span></a>`;
-      });
-
-      html += `
+            ${tags.map(tag => {
+              const sizeClass = tag.count > maxCount * 0.7 ? 'tag-large' : tag.count > maxCount * 0.3 ? 'tag-medium' : 'tag-small';
+              return `<a href="#tag-${encodeURIComponent(tag.name)}" class="tag-item ${sizeClass}" data-tag="${tag.name}">${getTagIcon(tag.name)}${tag.name}<span class="tag-count">${tag.count}</span></a>`;
+            }).join('')}
           </div>
         </section>
       `;
 
       contentArea.innerHTML = html;
-
-      document.querySelectorAll('.tag-item').forEach(tagEl => {
-        tagEl.addEventListener('click', (e) => {
-          e.preventDefault();
-          const tagName = tagEl.dataset.tag;
-          window.location.hash = `tag-${encodeURIComponent(tagName)}`;
-        });
-      });
     }
 
     function renderTagLinks(tagName) {
@@ -301,7 +453,7 @@
       contentArea.style.display = 'block';
       noResults.style.display = 'none';
 
-      let html = `
+      const html = `
         <section class="category-section" id="tag-${tagName}">
           <div class="category-header">
             <a href="#tags" class="back-link">
@@ -310,32 +462,23 @@
             </a>
           </div>
           <div class="category-header" style="margin-top: 10px;">
-            <div class="category-icon icon-tags">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
-            </div>
+            <div class="category-icon icon-tags">${getIcon('tag')}</div>
             <div class="category-info">
               <h2>标签：${tagName}</h2>
               <p>包含 ${links.length} 个相关外链</p>
             </div>
           </div>
           <div class="links-grid">
-      `;
-
-      links.forEach(link => {
-        html += renderLinkCard(link);
-      });
-
-      html += `
+            ${links.map(link => renderLinkCard(link)).join('')}
           </div>
         </section>
       `;
 
       contentArea.innerHTML = html;
-      attachCardListeners();
     }
 
     function renderCategorySection(category, links) {
-      let html = `
+      return `
         <section class="category-section" id="${category.id}">
           <div class="category-header">
             <div class="category-icon icon-${category.id}">${getIcon(category.icon)}</div>
@@ -346,26 +489,15 @@
             <span class="category-count">${links.length} 个站点</span>
           </div>
           <div class="links-grid">
-      `;
-
-      links.forEach(link => {
-        html += renderLinkCard(link);
-      });
-
-      html += `
+            ${links.map(link => renderLinkCard(link)).join('')}
           </div>
         </section>
       `;
-
-      return html;
     }
 
     function renderLinkCard(link) {
       const icon = getIcon(link.category) || iconSVGs.default;
-      let tagsHtml = '';
-      link.tags.slice(0, 3).forEach(tag => {
-        tagsHtml += `<span class="tag">${tag}</span>`;
-      });
+      const tagsHtml = link.tags.slice(0, 3).map(tag => `<span class="tag">${tag}</span>`).join('');
 
       return `
         <a href="${link.url}" target="_blank" rel="noopener noreferrer" class="link-card ${link.recommended ? 'recommended' : ''}">
@@ -382,26 +514,14 @@
       `;
     }
 
-    function attachCardListeners() {
-      document.querySelectorAll('.link-card').forEach(card => {
-        card.addEventListener('click', () => {});
-      });
-    }
-
     function setupSearch() {
       const searchInput = document.getElementById('searchInput');
-      let debounceTimer;
 
       searchInput.addEventListener('input', (e) => {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(() => {
           const keyword = e.target.value.trim();
-          if (keyword) {
-            window.location.hash = 'search';
-            searchAndDisplay(keyword);
-          } else {
-            handleHashChange();
-          }
+          keyword ? (window.location.hash = 'search', searchAndDisplay(keyword)) : handleHashChange();
         }, 300);
       });
 
@@ -409,12 +529,7 @@
         if (e.key === 'Enter') {
           clearTimeout(debounceTimer);
           const keyword = e.target.value.trim();
-          if (keyword) {
-            window.location.hash = 'search';
-            searchAndDisplay(keyword);
-          } else {
-            handleHashChange();
-          }
+          keyword ? (window.location.hash = 'search', searchAndDisplay(keyword)) : handleHashChange();
         }
       });
     }
@@ -435,39 +550,48 @@
 
       const groupedResults = {};
       results.forEach(link => {
-        if (!groupedResults[link.category]) {
-          groupedResults[link.category] = [];
-        }
+        if (!groupedResults[link.category]) groupedResults[link.category] = [];
         groupedResults[link.category].push(link);
       });
 
-      let html = '';
-      for (const categoryId in groupedResults) {
+      const html = Object.keys(groupedResults).map(categoryId => {
         const category = siteData.categories.find(c => c.id === categoryId);
-        if (category) {
-          html += renderCategorySection(category, groupedResults[categoryId]);
-        }
-      }
+        return category ? renderCategorySection(category, groupedResults[categoryId]) : '';
+      }).join('');
 
       contentArea.innerHTML = html;
-      attachCardListeners();
     }
 
     function setupBackToTop() {
       const backToTopBtn = document.getElementById('backToTop');
 
       window.addEventListener('scroll', () => {
-        if (window.scrollY > 400) {
-          backToTopBtn.classList.add('visible');
-        } else {
-          backToTopBtn.classList.remove('visible');
-        }
-      });
+        backToTopBtn.classList.toggle('visible', window.scrollY > 400);
+      }, { passive: true });
 
       backToTopBtn.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     }
+
+    document.getElementById('navTabs').addEventListener('click', (e) => {
+      const tab = e.target.closest('.nav-tab');
+      if (!tab) return;
+
+      const category = tab.dataset.category;
+      document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      currentCategory = category;
+      window.location.hash = category;
+    });
+
+    document.getElementById('contentArea').addEventListener('click', (e) => {
+      const tagItem = e.target.closest('.tag-item');
+      if (tagItem) {
+        e.preventDefault();
+        window.location.hash = `tag-${encodeURIComponent(tagItem.dataset.tag)}`;
+      }
+    });
 
     document.addEventListener('DOMContentLoaded', init);
   </script>
