@@ -3,7 +3,7 @@
   "servedDomain": "www.51invest.com",
   "canonical": "https://51invest.com",
   "source": "dist/main",
-  "builtAt": "2026-11-25T05:56:28.162Z",
+  "builtAt": "2026-11-25T06:06:03.632Z",
   "pages": 36,
   "articles": 276,
   "note": "Static GitHub Pages deployment. Apex 51invest.com currently redirects to www at the DNS/proxy layer."
