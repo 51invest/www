@@ -6,7 +6,49 @@
     <description>经济、金融、市场、投资、历史与研究的中文长文。</description>
     <language>zh-CN</language>
     <atom:link href="https://51invest.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 04:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:25:57 GMT</lastBuildDate>
+<item>
+      <title>不平等、财富核算与代际流动</title>
+      <link>https://51invest.com/economics/learn/inequality-wealth-mobility-measurement/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/inequality-wealth-mobility-measurement/</guid>
+      <description>把收入不平等、财富不平等和代际流动放在同一张核算表上，才能分清“差距有多大”“差距为何持续”和“政策能改哪一段”。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>担保、优先权与违约回收率</title>
+      <link>https://51invest.com/finance/learn/collateral-priority-recovery-rates/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/collateral-priority-recovery-rates/</guid>
+      <description>一笔贷款违约后能收回多少，不取决于合同写了多少担保，而取决于担保是否有效、清偿顺序如何、处置成本和剩余价值归谁。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>跨时代危机比较：从 1929 到 2008</title>
+      <link>https://51invest.com/history/learn/cross-era-crisis-comparison-1929-2008/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/cross-era-crisis-comparison-1929-2008/</guid>
+      <description>把 1929、2008 和 2020 放在同一组坐标上，不是为了证明“历史会重演”，而是为了看清杠杆、融资、政策空间和传导机制哪些变了、哪些没变。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>投资政策、治理权限与再平衡闭环</title>
+      <link>https://51invest.com/invest/learn/investment-governance-policy-delegation/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-governance-policy-delegation/</guid>
+      <description>投资政策书不是一份写给监管看的文件，而是把目标、风险预算、决策权限、再平衡触发和复盘责任写成可执行的治理闭环。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>订单簿、做市与期货基差</title>
+      <link>https://51invest.com/markets/learn/order-books-market-making-futures-basis/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/order-books-market-making-futures-basis/</guid>
+      <description>订单簿把“想买”和“想卖”变成可执行的价格与数量；价差、深度、冲击成本和基差，决定一笔交易的真实成本，也决定做市商靠什么活。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>证据综合、元分析与研究合并</title>
+      <link>https://51invest.com/research/learn/evidence-synthesis-meta-analysis/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/evidence-synthesis-meta-analysis/</guid>
+      <description>元分析不是把一堆论文的结论取平均，而是把问题、效应量、样本、偏差和异质性放到同一张表上，判断“平均效应”是否值得相信。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
 <item>
       <title>公共品与共同池资源：自愿供给为什么会失败</title>
       <link>https://51invest.com/economics/learn/public-goods-and-common-pool-resources/</link>

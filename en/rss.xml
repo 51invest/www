@@ -6,7 +6,49 @@
     <description>Long-form economics, finance, markets, investing, history and research.</description>
     <language>en</language>
     <atom:link href="https://51invest.com/en/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 04:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:25:57 GMT</lastBuildDate>
+<item>
+      <title>Inequality, Wealth Accounting and Intergenerational Mobility</title>
+      <link>https://51invest.com/economics/en/learn/inequality-wealth-mobility-measurement/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/en/learn/inequality-wealth-mobility-measurement/</guid>
+      <description>Put income inequality, wealth inequality and intergenerational mobility on one accounting sheet to separate how large the gap is, why it persists and which part policy can change.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Collateral, Priority and Recovery Rates</title>
+      <link>https://51invest.com/finance/en/learn/collateral-priority-recovery-rates/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/en/learn/collateral-priority-recovery-rates/</guid>
+      <description>How much a defaulted loan recovers depends less on the collateral written into the contract than on whether the security is enforceable, who ranks first, what disposal costs and who absorbs the shortfall.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Comparing Crises across Eras: 1929 to 2008</title>
+      <link>https://51invest.com/history/en/learn/cross-era-crisis-comparison-1929-2008/</link>
+      <guid isPermaLink="true">https://51invest.com/history/en/learn/cross-era-crisis-comparison-1929-2008/</guid>
+      <description>Putting 1929, 2008 and 2020 on the same axes does not prove that history repeats; it shows which parts of leverage, funding, policy space and transmission changed and which did not.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Investment Governance: Policy, Delegation and Rebalancing</title>
+      <link>https://51invest.com/invest/en/learn/investment-governance-policy-delegation/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/en/learn/investment-governance-policy-delegation/</guid>
+      <description>An investment policy statement is not a document for regulators; it is a governance loop that writes objectives, risk budget, decision rights, rebalancing triggers and review duties into executable rules.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Order Books, Market Making and Futures Basis</title>
+      <link>https://51invest.com/markets/en/learn/order-books-market-making-futures-basis/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/en/learn/order-books-market-making-futures-basis/</guid>
+      <description>An order book turns buy and sell intentions into executable prices and quantities; spread, depth, impact cost and basis determine the true cost of a trade and what a market maker actually earns.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Evidence Synthesis and Meta-Analysis</title>
+      <link>https://51invest.com/research/en/learn/evidence-synthesis-meta-analysis/</link>
+      <guid isPermaLink="true">https://51invest.com/research/en/learn/evidence-synthesis-meta-analysis/</guid>
+      <description>A meta-analysis is not an average of paper conclusions; it puts the question, effect sizes, samples, bias and heterogeneity on one table to judge whether the pooled effect is credible.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
 <item>
       <title>Public Goods and Common-Pool Resources: Why Voluntary Provision Fails</title>
       <link>https://51invest.com/economics/en/learn/public-goods-and-common-pool-resources/</link>
