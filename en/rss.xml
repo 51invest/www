@@ -6,7 +6,7 @@
     <description>Long-form economics, finance, markets, investing, history and research.</description>
     <language>en</language>
     <atom:link href="https://51invest.com/en/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 10:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:29:40 GMT</lastBuildDate>
 <item>
       <title>Inequality, Wealth Accounting and Intergenerational Mobility</title>
       <link>https://51invest.com/economics/en/learn/inequality-wealth-mobility-measurement/</link>
@@ -22,6 +22,13 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>Health Economics: Insurance, Moral Hazard and the Production of Health</title>
+      <link>https://51invest.com/economics/en/learn/health-economics-insurance-moral-hazard-health-production/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/en/learn/health-economics-insurance-moral-hazard-health-production/</guid>
+      <description>Medical spending is only one input into health; insurance turns large bills into premiums and changes utilisation, risk pools and provider incentives.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>Collateral, Priority and Recovery Rates</title>
       <link>https://51invest.com/finance/en/learn/collateral-priority-recovery-rates/</link>
       <guid isPermaLink="true">https://51invest.com/finance/en/learn/collateral-priority-recovery-rates/</guid>
@@ -33,6 +40,13 @@
       <link>https://51invest.com/finance/en/learn/private-credit-direct-lending-spreads-covenants-cycle/</link>
       <guid isPermaLink="true">https://51invest.com/finance/en/learn/private-credit-direct-lending-spreads-covenants-cycle/</guid>
       <description>Private credit is not a substitute for high-yield bonds but a chain from borrower to fund, bank facility and end investor. A spread must cover funding, fees, operations and expected loss before leverage turns it into an equity return.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Climate Risk and the Insurance Gap: Cat Bonds, Reinsurance and Public Backstops</title>
+      <link>https://51invest.com/finance/en/learn/climate-risk-insurance-gap-cat-bonds-public-backstop/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/en/learn/climate-risk-insurance-gap-cat-bonds-public-backstop/</guid>
+      <description>Climate losses are growing, but insurance and reinsurance cover only part of them. Cat bonds transfer tail risk to capital markets, and public backstops take the last layer, each with basis and incentive costs.</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -71,10 +85,24 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>Critical Minerals: Lithium, Cobalt and Supply-Chain Bottlenecks</title>
+      <link>https://51invest.com/markets/en/learn/critical-minerals-lithium-cobalt-supply-chain/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/en/learn/critical-minerals-lithium-cobalt-supply-chain/</guid>
+      <description>Lithium and cobalt are not ordinary commodities; they are the starting point of the battery chain. Prices depend on mines, refining, cathode materials and policy, and the bottleneck is often refining rather than reserves.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>Evidence Synthesis and Meta-Analysis</title>
       <link>https://51invest.com/research/en/learn/evidence-synthesis-meta-analysis/</link>
       <guid isPermaLink="true">https://51invest.com/research/en/learn/evidence-synthesis-meta-analysis/</guid>
       <description>A meta-analysis is not an average of paper conclusions; it puts the question, effect sizes, samples, bias and heterogeneity on one table to judge whether the pooled effect is credible.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Meta-Analysis and Research Synthesis: Effect Size, Heterogeneity and Publication Bias</title>
+      <link>https://51invest.com/research/en/learn/meta-analysis-effect-size-heterogeneity-publication-bias/</link>
+      <guid isPermaLink="true">https://51invest.com/research/en/learn/meta-analysis-effect-size-heterogeneity-publication-bias/</guid>
+      <description>Meta-analysis does not count papers; it weights comparable effect sizes by precision and reports heterogeneity, bias and certainty of evidence.</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -456,7 +484,7 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>Index Funds 1975: From Academic Paper to Product</title>
+      <title>The 1975 index fund: how Vanguard&apos;s first product reached investors</title>
       <link>https://51invest.com/history/en/learn/index-fund-1975-paper-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/en/learn/index-fund-1975-paper-to-product/</guid>
       <description>This article puts &quot;index funds&quot;, &quot;academic evidence&quot; and &quot;productization&quot; on the same judgment chain, unifying the caliber first, and then discussing mechanisms and boundaries.</description>
@@ -470,14 +498,14 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>Railway mania: project finance, underwriting and the chain of failures</title>
+      <title>The 1840s railway mania: route approval, underwriting and the wave of failures</title>
       <link>https://51invest.com/history/en/learn/railway-mania-finance-bust/</link>
       <guid isPermaLink="true">https://51invest.com/history/en/learn/railway-mania-finance-bust/</guid>
       <description>British railway mania in the 1840s was not a simple share-price bubble but a project-finance chain: promoters, underwriters, parliamentary authorisation and contractors discounted future traffic into current capital. The chain explains why failures clustered.</description>
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>The 1975 index fund: the institutional path from paper to tradable product</title>
+      <title>Index funds as an institution: products, channels and governance after 1975</title>
       <link>https://51invest.com/history/en/learn/index-fund-1975-academic-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/en/learn/index-fund-1975-academic-to-product/</guid>
       <description>The index fund did not evolve naturally. Academic evidence, regulatory exemptions, distribution channels and fee structure together turned an &quot;average return&quot; idea into a scalable financial product.</description>

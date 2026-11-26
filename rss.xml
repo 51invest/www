@@ -6,7 +6,7 @@
     <description>经济、金融、市场、投资、历史与研究的中文长文。</description>
     <language>zh-CN</language>
     <atom:link href="https://51invest.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 10:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:29:40 GMT</lastBuildDate>
 <item>
       <title>不平等、财富核算与代际流动</title>
       <link>https://51invest.com/economics/learn/inequality-wealth-mobility-measurement/</link>
@@ -22,6 +22,13 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>卫生经济学：医疗保险、道德风险与健康生产</title>
+      <link>https://51invest.com/economics/learn/health-economics-insurance-moral-hazard-health-production/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/health-economics-insurance-moral-hazard-health-production/</guid>
+      <description>医疗支出只是健康生产的一个投入；保险把大额账单变成保费，同时改变使用量、风险池和支付方激励。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>担保、优先权与违约回收率</title>
       <link>https://51invest.com/finance/learn/collateral-priority-recovery-rates/</link>
       <guid isPermaLink="true">https://51invest.com/finance/learn/collateral-priority-recovery-rates/</guid>
@@ -33,6 +40,13 @@
       <link>https://51invest.com/finance/learn/private-credit-direct-lending-spreads-covenants-cycle/</link>
       <guid isPermaLink="true">https://51invest.com/finance/learn/private-credit-direct-lending-spreads-covenants-cycle/</guid>
       <description>私人信贷不是“高收益债券的替代品”，而是一条从借款人到基金、银行授信和最终投资者的中介链。利差要先扣资金成本、费用、运营和预期损失，再看杠杆后的权益回报。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>气候风险与保险缺口：巨灾债券、再保险与公共后备</title>
+      <link>https://51invest.com/finance/learn/climate-risk-insurance-gap-cat-bonds-public-backstop/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/climate-risk-insurance-gap-cat-bonds-public-backstop/</guid>
+      <description>气候损失越来越大，保险和再保险只能覆盖一部分；巨灾债券把风险转给资本市场，公共后备承担最后一段，但每一层都有基差和激励代价。</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -71,10 +85,24 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>关键矿产：锂、钴与供应链瓶颈</title>
+      <link>https://51invest.com/markets/learn/critical-minerals-lithium-cobalt-supply-chain/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/critical-minerals-lithium-cobalt-supply-chain/</guid>
+      <description>锂和钴不是普通商品，而是电池产业链的起点；价格由矿山、冶炼、正极材料和地缘政策共同决定，瓶颈往往不在储量，而在把矿石变成可用材料的能力。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>证据综合、元分析与研究合并</title>
       <link>https://51invest.com/research/learn/evidence-synthesis-meta-analysis/</link>
       <guid isPermaLink="true">https://51invest.com/research/learn/evidence-synthesis-meta-analysis/</guid>
       <description>元分析不是把一堆论文的结论取平均，而是把问题、效应量、样本、偏差和异质性放到同一张表上，判断“平均效应”是否值得相信。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>元分析与研究综合：效应量、异质性与发表偏差</title>
+      <link>https://51invest.com/research/learn/meta-analysis-effect-size-heterogeneity-publication-bias/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/meta-analysis-effect-size-heterogeneity-publication-bias/</guid>
+      <description>元分析不是把论文数量相加，而是把可比的效应量按精度加权，并同时报告异质性、偏倚与证据确定性。</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -456,7 +484,7 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>指数基金 1975：从学术论文到产品</title>
+      <title>指数基金 1975 案例：先锋第一只产品如何落地</title>
       <link>https://51invest.com/history/learn/index-fund-1975-paper-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/learn/index-fund-1975-paper-to-product/</guid>
       <description>本文把“指数基金”“学术证据”“产品化”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
@@ -470,14 +498,14 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>铁路狂热：项目融资、承销与破产链</title>
+      <title>1840s 铁路狂热案例：路线审批、承销与破产潮</title>
       <link>https://51invest.com/history/learn/railway-mania-finance-bust/</link>
       <guid isPermaLink="true">https://51invest.com/history/learn/railway-mania-finance-bust/</guid>
       <description>1840 年代英国铁路狂热不是单纯的“股价泡沫”，而是一条项目融资链：发起人、承销商、议会授权和承包商把未来客流折现成当期资本。看清这条链，才能解释为什么破产会集中出现。</description>
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>指数基金 1975：从论文到可交易产品的制度路径</title>
+      <title>指数基金制度化：1975 年之后的产品、渠道与治理</title>
       <link>https://51invest.com/history/learn/index-fund-1975-academic-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/learn/index-fund-1975-academic-to-product/</guid>
       <description>指数基金不是自然演化出来的产品。学术证据、监管豁免、销售渠道和费率结构共同把一个“平均收益”想法变成可规模化的金融产品。</description>
