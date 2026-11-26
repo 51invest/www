@@ -10,6 +10,14 @@
   <url><loc>https://51invest.com/en/sources/</loc></url>
   <url><loc>https://51invest.com/charts/</loc></url>
   <url><loc>https://51invest.com/en/charts/</loc></url>
+  <url><loc>https://51invest.com/about/</loc></url>
+  <url><loc>https://51invest.com/en/about/</loc></url>
+  <url><loc>https://51invest.com/method/</loc></url>
+  <url><loc>https://51invest.com/en/method/</loc></url>
+  <url><loc>https://51invest.com/corrections/</loc></url>
+  <url><loc>https://51invest.com/en/corrections/</loc></url>
+  <url><loc>https://51invest.com/privacy/</loc></url>
+  <url><loc>https://51invest.com/en/privacy/</loc></url>
   <url><loc>https://51invest.com/charts/chart-001/</loc></url>
   <url><loc>https://51invest.com/en/charts/chart-001/</loc></url>
   <url><loc>https://51invest.com/charts/chart-002/</loc></url>
@@ -34,4 +42,16 @@
   <url><loc>https://51invest.com/en/charts/chart-011/</loc></url>
   <url><loc>https://51invest.com/charts/chart-012/</loc></url>
   <url><loc>https://51invest.com/en/charts/chart-012/</loc></url>
+  <url><loc>https://51invest.com/courses/econ-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/econ-start/</loc></url>
+  <url><loc>https://51invest.com/courses/fin-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/fin-start/</loc></url>
+  <url><loc>https://51invest.com/courses/his-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/his-start/</loc></url>
+  <url><loc>https://51invest.com/courses/inv-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/inv-start/</loc></url>
+  <url><loc>https://51invest.com/courses/mkt-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/mkt-start/</loc></url>
+  <url><loc>https://51invest.com/courses/res-start/</loc></url>
+  <url><loc>https://51invest.com/en/courses/res-start/</loc></url>
 </urlset>

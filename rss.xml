@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>巫妖投资 · 中文文章</title>
+    <link>https://51invest.com/</link>
+    <description>经济、金融、市场、投资、历史与研究的中文长文。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://51invest.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2026 00:54:32 GMT</lastBuildDate>
+<item>
+      <title>公共品与共同池资源：自愿供给为什么会失败</title>
+      <link>https://51invest.com/economics/learn/public-goods-and-common-pool-resources/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/public-goods-and-common-pool-resources/</guid>
+      <description>公共品同时具有非排他性和非竞争性，共同池资源具有竞争性但难以排他；两者都会让“搭便车”和“过度使用”成为默认结果。本文把萨缪尔森条件、自愿供给缺口和共同池的配额规则放进同一张账，说明政府、俱乐部和社区治理各自能解决哪一段。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>菲利普斯曲线的三种版本：工资、预期与供给冲击</title>
+      <link>https://51invest.com/economics/learn/three-phillips-curves-wages-expectations-supply-shocks/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/three-phillips-curves-wages-expectations-supply-shocks/</guid>
+      <description>菲利普斯曲线不是一条固定斜率的线。工资谈判版把通胀与失业写成此消彼长，预期增强版把“预期到的通胀”从曲线中抽走，供给冲击版则让曲线整体移动。三种版本叠在一起，才能解释为什么同一个失业率有时伴随高通胀、有时伴随低通胀。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>缩表与利率走廊：央行资产负债表如何传导</title>
+      <link>https://51invest.com/economics/learn/balance-sheet-runoff-and-rate-corridor/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/balance-sheet-runoff-and-rate-corridor/</guid>
+      <description>央行缩表不是简单“收回流动性”。资产端的债券到期、负债端的准备金与隔夜逆回购、以及利率走廊的上限下限，共同决定短端利率会不会失控。本文把 T 型账户、准备金供需和走廊三段拆开，算一次缩表对准备金和利率的冲击。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>关税落在谁头上：中间品、原产地与价值链</title>
+      <link>https://51invest.com/economics/learn/who-pays-tariffs-intermediates-origin-value-chains/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/who-pays-tariffs-intermediates-origin-value-chains/</guid>
+      <description>关税的法定纳税人是进口商，经济负担却由消费者、进口商、出口商和上游供应商分担。中间品、原产地规则和价值链会把一个看似简单的税率放大成有效保护率、合规成本和双重征税。本文用有效保护率和一个三国价值链算例，拆开“关税落在谁头上”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>国际收支危机：储备、资本流动与汇率制度</title>
+      <link>https://51invest.com/economics/learn/balance-of-payments-crisis-reserves-capital-flows-exchange-regimes/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/balance-of-payments-crisis-reserves-capital-flows-exchange-regimes/</guid>
+      <description>国际收支危机不是“贸易逆差”本身，而是可动用的储备、短期外债和资本流动之间的期限错配。固定汇率把汇率风险变成储备风险，浮动汇率把储备风险变成价格风险。本文用储备覆盖倍数和 sudden stop 算例，拆开危机的触发顺序。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>平台进入壁垒：数据、网络效应与互操作</title>
+      <link>https://51invest.com/economics/learn/platform-entry-barriers-data-network-effects-interoperability/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/platform-entry-barriers-data-network-effects-interoperability/</guid>
+      <description>平台的进入壁垒不只是“用户多”。网络效应、数据反馈、转换成本和多归属共同决定一个新平台能不能达到最小临界规模。本文把双边市场的补贴、数据飞轮和互操作义务放进同一张进入账，说明反垄断为什么要看“可竞争性”而不是只看份额。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>住房可负担性：土地、通勤与分区</title>
+      <link>https://51invest.com/economics/learn/housing-affordability-land-commuting-zoning/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/housing-affordability-land-commuting-zoning/</guid>
+      <description>住房可负担性不是单一的房价收入比，而是土地供给、分区密度、通勤成本和地方财政四本账的合成结果。本文把“可开发土地—容积率—通勤半径—可负担区间”串成一条链，说明为什么同样的收入在城市不同位置对应完全不同的住房选择。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>能源转型的系统成本：电网、储能与容量市场</title>
+      <link>https://51invest.com/economics/learn/energy-transition-system-cost-grid-storage-capacity-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/energy-transition-system-cost-grid-storage-capacity-markets/</guid>
+      <description>风电和光伏的度电成本下降，不等于整个电力系统变便宜。间歇性电源需要电网扩容、储能、调峰和容量备用，这些“系统成本”不在组件报价里。本文把 LCOE、系统成本与容量市场放进同一张账，算一个 60% 可再生能源系统的真实成本。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行为干预的规模化与伦理：默认选项何时越界</title>
+      <link>https://51invest.com/economics/learn/scaling-behavioural-interventions-defaults-ethics/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/scaling-behavioural-interventions-defaults-ethics/</guid>
+      <description>默认选项、显著性和社会规范在随机试验里有效，不代表规模复制后仍有效。本文把效应量、覆盖人数、实施成本和伦理边界放进同一张账，说明为什么“默认加入”可以提高参与率，也可能在用户不知情时剥夺选择。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>法律执行与市场信任：比较制度的可检验部分</title>
+      <link>https://51invest.com/economics/learn/law-enforcement-market-trust-comparative-institutions/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/law-enforcement-market-trust-comparative-institutions/</guid>
+      <description>法律能不能促进市场信任，不在于条文写得多好，而在于产权是否清楚、合同是否可执行、违约成本是否可计算。本文用交易成本、执行成本和信任替代三条线，拆开“制度好—增长快”的黑箱，留下可检验的部分。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国制造业升级的全球溢出：中间品、需求与规则</title>
+      <link>https://51invest.com/economics/learn/china-manufacturing-upgrade-global-spillovers-intermediates-demand-rules/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/china-manufacturing-upgrade-global-spillovers-intermediates-demand-rules/</guid>
+      <description>中国制造业升级不是“出口更多最终品”，而是通过中间品、资本品、需求外溢和规则参与改变全球生产网络。本文把价值链前向联系、后向联系和需求外溢拆成三条可算的渠道，说明谁受益、谁调整、谁承担竞争压力。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>产能利用率与成本曲线：制造业数据里的规模经济</title>
+      <link>https://51invest.com/economics/learn/capacity-utilization-and-cost-curves/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/capacity-utilization-and-cost-curves/</guid>
+      <description>本文把“产能利用率”“成本曲线”“规模经济”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>并购审查的集中度账：HHI、CR4 与补救措施</title>
+      <link>https://51invest.com/economics/learn/merger-review-concentration-hhi-cr4/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/merger-review-concentration-hhi-cr4/</guid>
+      <description>本文把“HHI”“CR4”“补救措施”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>拍卖与匹配：机制设计的可检验收益</title>
+      <link>https://51invest.com/economics/learn/auctions-and-matching-mechanism-design/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/auctions-and-matching-mechanism-design/</guid>
+      <description>本文把“拍卖”“匹配”“机制设计”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>GDP 修订与季度噪声：初值、终值与修订偏差</title>
+      <link>https://51invest.com/economics/learn/gdp-revisions-and-quarterly-noise/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/gdp-revisions-and-quarterly-noise/</guid>
+      <description>本文把“GDP 修订”“季度噪声”“初值终值”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>TFP 残差之争：测量误差、无形资本与增长解释</title>
+      <link>https://51invest.com/economics/learn/tfp-residual-measurement-intangibles/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/tfp-residual-measurement-intangibles/</guid>
+      <description>本文把“TFP”“测量误差”“无形资本”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>自动稳定器与地方财政：乘数的制度边界</title>
+      <link>https://51invest.com/economics/learn/automatic-stabilizers-and-local-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/automatic-stabilizers-and-local-finance/</guid>
+      <description>本文把“自动稳定器”“地方财政”“乘数边界”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>养老金激励与劳动参与：提前退休的边际账</title>
+      <link>https://51invest.com/economics/learn/pension-incentives-and-labor-participation/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/pension-incentives-and-labor-participation/</guid>
+      <description>本文把“养老金激励”“提前退休”“劳动参与”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>治理指标的可比性：产权、法治与增长的相关账</title>
+      <link>https://51invest.com/economics/learn/governance-indicators-comparability/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/governance-indicators-comparability/</guid>
+      <description>本文把“治理指标”“产权”“法治”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>平台并购与排他行为：一次反垄断审查的集中度账</title>
+      <link>https://51invest.com/economics/learn/platform-merger-remedies-and-concentration/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/platform-merger-remedies-and-concentration/</guid>
+      <description>同一笔 687 亿美元的交易，在三个司法辖区得到三种答案。把产品市场、云游戏入口和行为性救济放在一张表上，才能看清“集中度”不是一个百分比。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2020 年财政刺激的跨国对照：乘数为什么差这么远</title>
+      <link>https://51invest.com/economics/learn/2020-fiscal-stimulus-cross-country-multipliers/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/2020-fiscal-stimulus-cross-country-multipliers/</guid>
+      <description>美国、德国、日本和欧元区在 2020 年都大幅扩张财政，产出反应却不同。差别不在“花了多少钱”，而在支出结构、储蓄行为和供给约束。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>欧盟碳市场 2022：配额上限、碳价与边界调节</title>
+      <link>https://51invest.com/economics/learn/eu-ets-2022-cap-price-carbon-border/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/eu-ets-2022-cap-price-carbon-border/</guid>
+      <description>2022 年欧盟排放交易体系的配额上限为 15.29 亿个，较上年减少约 4,300 万个；碳价在 2 月拍到 97.51 欧元，3 月低至 57.91 欧元。把上限、拍卖和免费配额放在一条链上，才能理解碳价不是“行政定价”，而是配额稀缺性的价格。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>韩国与阿根廷：同一外部冲击下的制度分流</title>
+      <link>https://51invest.com/economics/learn/korea-argentina-institutional-divergence/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/korea-argentina-institutional-divergence/</guid>
+      <description>1997 年亚洲危机与 2001 年阿根廷危机都始于外部融资收紧，结果却分叉。汇率制度、银行监管和财政空间决定了同一个冲击如何变成不同的产出损失。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融功能失灵：当中介成本高于协调收益</title>
+      <link>https://51invest.com/finance/learn/financial-function-failure-intermediation-cost-coordination-benefit/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/financial-function-failure-intermediation-cost-coordination-benefit/</guid>
+      <description>金融体系的存在理由，是降低储蓄者与投资者之间的搜寻、评估、监督和清算成本。当地缘分割、信息不对称或监管摩擦让中介成本高于协调收益时，金融功能会失灵：资金闲在账上，项目却借不到钱。本文用一笔贷款的中介成本账，拆开六项金融功能各自的失败点。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>信用创造的约束：资本、流动性与贷款需求</title>
+      <link>https://51invest.com/finance/learn/credit-creation-constraints-capital-liquidity-loan-demand/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/credit-creation-constraints-capital-liquidity-loan-demand/</guid>
+      <description>银行不是“吸收存款再贷款”，而是在资本、流动性和贷款需求三重约束下创造信用。本文用一张 T 型账户和一个资本充足率算例，说明为什么同样一笔存款，有的银行能放出 90 元贷款，有的只能放 60 元。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>充足准备金与利率走廊：地板系统怎么运行</title>
+      <link>https://51invest.com/finance/learn/ample-reserves-floor-system-rate-corridor/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/ample-reserves-floor-system-rate-corridor/</guid>
+      <description>在充足准备金框架下，央行不再靠“稀缺准备金+公开市场操作”微调利率，而是用准备金利率和隔夜逆回购利率画出地板，让市场利率在走廊内运行。本文用一张准备金供需表，说明地板系统为什么需要逆回购、什么时候会失效。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收益率曲线的三种信息：预期、风险与流动性</title>
+      <link>https://51invest.com/finance/learn/yield-curve-three-informations-expectations-risk-liquidity/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/yield-curve-three-informations-expectations-risk-liquidity/</guid>
+      <description>收益率曲线倒挂常被当成衰退信号，但曲线里至少有三层信息：未来利率预期、期限风险溢价和流动性溢价。把三层拆开，才能判断倒挂是“政策紧”还是“风险重定价”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>会计估计与应计项目：盈利质量从哪里看</title>
+      <link>https://51invest.com/finance/learn/accounting-estimates-accrual-discretion-earnings-quality/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/accounting-estimates-accrual-discretion-earnings-quality/</guid>
+      <description>同样的现金流，不同的折旧年限、坏账准备和保修计提，会给出完全不同的净利润。应计项目本身不是造假，但它给了管理层判断空间；看盈利质量，要追应计去了哪里、是否反向转回。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>三表勾稽：资产负债表、利润表与现金流量表怎么连起来</title>
+      <link>https://51invest.com/finance/learn/three-statements-articulation-balance-sheet-income-cash-flow/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/three-statements-articulation-balance-sheet-income-cash-flow/</guid>
+      <description>利润表的净利润进入资产负债表留存收益，现金流量表的现金变动进入资产负债表货币资金；三表通过少数几个科目咬合。勾稽对不上，往往说明分类、合并范围或估计出了问题。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>回购与分红：同是返还现金，信号不同</title>
+      <link>https://51invest.com/finance/learn/buyback-vs-dividend-payout-signal-eps/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/buyback-vs-dividend-payout-signal-eps/</guid>
+      <description>分红是稳定的现金承诺，回购是灵活的资本配置；两者都减少公司现金，但回购还能改变股本和每股指标。看回购不能只看 EPS 增厚，要看回购价格、资金来源和是否掩盖了股权激励的稀释。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>长寿风险与年金：把积蓄换成终身现金流</title>
+      <link>https://51invest.com/finance/learn/longevity-annuity-payout-inflation-fees/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/longevity-annuity-payout-inflation-fees/</guid>
+      <description>年金的核心不是“收益高不高”，而是把不确定的寿命换成确定的现金流。它用生存者分摊死亡率风险，但也把通胀、费用和对手方风险转移给投保人。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>离岸美元融资：互换、掉期与展期风险</title>
+      <link>https://51invest.com/finance/learn/offshore-dollar-funding-swap-lines-rollover-risk/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/offshore-dollar-funding-swap-lines-rollover-risk/</guid>
+      <description>离岸机构需要美元，但拿不到美国存款保险和贴现窗口；它们靠外汇掉期、离岸存款和央行互换获取美元。美元一紧，掉期基点扩大、展期变难，离岸美元体系就把压力传回在岸。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>稳定币的储备、锚定与挤兑：它像不像银行</title>
+      <link>https://51invest.com/finance/learn/stablecoin-reserve-peg-run-bank-analogy/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/stablecoin-reserve-peg-run-bank-analogy/</guid>
+      <description>稳定币承诺 1 枚换 1 美元，靠储备资产维持锚定。它把“存款—储备—赎回”压缩成一套链上负债，但没有存款保险和最后贷款人；储备质量、期限错配和赎回速度决定它会不会发生挤兑。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>批发融资挤兑：LCR、NSFR 与火售</title>
+      <link>https://51invest.com/finance/learn/wholesale-funding-run-lcr-nsfr-fire-sale/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/wholesale-funding-run-lcr-nsfr-fire-sale/</guid>
+      <description>批发融资不是存款，但比存款更敏感：回购、同业存单、商业票据和债券在压力下可以瞬间不续作。LCR 管 30 天生存，NSFR 管一年结构；两个指标都合格，也可能因抵押品折价和集中度发生挤兑。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>客户资产托管：隔离、再质押与机构失败</title>
+      <link>https://51invest.com/finance/learn/client-assets-custody-segregation-rehypothecation/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/client-assets-custody-segregation-rehypothecation/</guid>
+      <description>客户资产不是机构的自有资产；托管的核心是隔离和可追溯。客户资产如果被混同、再质押或借给对手方，机构倒闭时就会变成普通债权。托管链越长，追索越难。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币分层与影子银行：M2 之外的信用</title>
+      <link>https://51invest.com/finance/learn/money-layers-and-shadow-banking/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/money-layers-and-shadow-banking/</guid>
+      <description>本文把“货币分层”“影子银行”“M2”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>T+1 与日内流动性：结算周期的连锁账</title>
+      <link>https://51invest.com/finance/learn/t1-and-intraday-liquidity/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/t1-and-intraday-liquidity/</guid>
+      <description>本文把“T+1”“日内流动性”“结算周期”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>银行 ALM：HTM 证券、未保险存款与利率冲击</title>
+      <link>https://51invest.com/finance/learn/bank-alm-htm-uninsured-deposits/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/bank-alm-htm-uninsured-deposits/</guid>
+      <description>本文把“资产负债管理”“HTM 证券”“未保险存款”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>SVB 2023：HTM 证券、未保险存款与利率冲击</title>
+      <link>https://51invest.com/finance/learn/svb-2023-htm-uninsured-deposits-rate-shock/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/svb-2023-htm-uninsured-deposits-rate-shock/</guid>
+      <description>一家资产 2,090 亿美元的银行在两天内被挤兑关闭。把时间线、负债结构和证券组合放在一起，才能看清利率冲击如何通过未保险存款变成流动性危机。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>美国 T+1 迁移 2024：结算周期缩短的连锁影响</title>
+      <link>https://51invest.com/finance/learn/us-t1-settlement-2024/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/us-t1-settlement-2024/</guid>
+      <description>结算从 T+2 缩到 T+1，看似只省一天，却重排了外汇、融资、证券借贷和运营时区。真正的问题不是“能否按时交收”，而是整条链条能否在更短窗口内完成资金与证券的匹配。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>商业票据市场 2008/2020：抵押品折扣率如何冻结融资</title>
+      <link>https://51invest.com/finance/learn/commercial-paper-2008-2020-haircuts/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/commercial-paper-2008-2020-haircuts/</guid>
+      <description>商业票据市场两次在危机中冻结，机制相同：投资者不愿展期，折扣率上升，借款人被迫抛售资产。央行工具能提供流动性，但不能替代偿付能力。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2022 英国 LDI 危机：保证金螺旋与养老金</title>
+      <link>https://51invest.com/finance/learn/uk-ldi-crisis-2022-gilt-margin-spiral/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/uk-ldi-crisis-2022-gilt-margin-spiral/</guid>
+      <description>2022 年 9 月的迷你预算后，30 年期英国国债收益率在数周内升逾 270 个基点，杠杆 LDI 基金被迫卖债补保证金。把收益率、抵押品和养老金负债放在一条时间线上，才能看清非银机构的杠杆如何变成系统性风险。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>丝绸、白银与朝贡：欧亚贸易网络中的货币与治理</title>
+      <link>https://51invest.com/history/learn/silk-silver-tribute-eurasian-trade-money-governance/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/silk-silver-tribute-eurasian-trade-money-governance/</guid>
+      <description>丝绸之路不是一条路，而是一张由绿洲、草原、海港和朝贡使团交织的网络。丝绸、白银和朝贡礼物在不同节点承担货币、外交和治理功能；理解这张网络，才能理解欧亚贸易的兴衰。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>从谷物法到自由贸易：英国政策辩论的账</title>
+      <link>https://51invest.com/history/learn/corn-laws-free-trade-british-policy-debate/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/corn-laws-free-trade-british-policy-debate/</guid>
+      <description>谷物法不是简单的“地主 vs 工厂主”，而是土地租金、工人工资、工业利润和粮食安全之间的分配账。废除谷物法降低了粮价，也重塑了英国的政治联盟和全球贸易。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>社会主义核算之争：价格、计划与信息</title>
+      <link>https://51invest.com/history/learn/socialist-calculation-debate-prices-planning-information/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/socialist-calculation-debate-prices-planning-information/</guid>
+      <description>20 世纪二三十年代的“核算之争”不是意识形态口号，而是信息问题：没有市场价格，计划者能否知道资源该投到哪里？米塞斯、哈耶克强调信息分散，兰格主张用模拟价格和试错规则替代市场。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>从边际效用到福利经济学：帕累托、庇古与阿罗</title>
+      <link>https://51invest.com/history/learn/marginal-utility-welfare-economics-pareto-pigou-arrow/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/marginal-utility-welfare-economics-pareto-pigou-arrow/</guid>
+      <description>福利经济学从“效用”出发，试图回答：什么样的资源配置算好？帕累托效率、庇古外部性和阿罗不可能定理，分别给出效率、公平和集体选择的边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>非洲与中东的资源诅咒：制度、租金与冲突</title>
+      <link>https://51invest.com/history/learn/resource-curse-africa-middle-east-institutions-rents-conflict/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/resource-curse-africa-middle-east-institutions-rents-conflict/</guid>
+      <description>资源丰富不一定带来增长：租金容易集中、制度容易被俘获、冲突容易被资助。非洲和中东的经验显示，资源诅咒不是地质命运，而是制度、租金分配和外部冲击的结果。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数字货币的历史回声：从票据到 CBDC</title>
+      <link>https://51invest.com/history/learn/digital-money-history-notes-bills-cbdc/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/digital-money-history-notes-bills-cbdc/</guid>
+      <description>数字货币不是全新发明：票据、银行券、存款和信用卡都在做同一件事——把货币从实物变成可转让的记账债权。CBDC 的差别在于发行人是央行、负债是央行负债，且可编程。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>保险的起源：海上保险、互助与精算</title>
+      <link>https://51invest.com/history/learn/insurance-origins-marine-mutual-actuarial/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/insurance-origins-marine-mutual-actuarial/</guid>
+      <description>保险不是从“风险厌恶”开始的，而是从海运商人分摊船货损失开始。海上保险、互助会和人寿年金逐步把随机损失变成可定价的保费；精算把死亡率和大数定律变成商业基础。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>主权债务重组：从 1930 年代到 2020 年代</title>
+      <link>https://51invest.com/history/learn/sovereign-debt-restructuring-1930s-2020s/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/sovereign-debt-restructuring-1930s-2020s/</guid>
+      <description>主权债务重组不是“赖账”，而是债权人与债务国重新分配损失的过程。1930 年代的大萧条、1980 年代的拉美危机、1990 年代的 HIPC 和 2010 年代的希腊，展示了不同的重组机制和代价。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>史料批判实战：重建一条 19 世纪价格序列</title>
+      <link>https://51invest.com/history/learn/source-critique-19c-price-series/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/source-critique-19c-price-series/</guid>
+      <description>本文把“史料批判”“价格序列”“19 世纪”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>1970s 滞胀争论：证据如何改写学派</title>
+      <link>https://51invest.com/history/learn/1970s-stagflation-evidence-schools/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/1970s-stagflation-evidence-schools/</guid>
+      <description>本文把“滞胀”“证据”“学派”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>公共资源治理比较：阿尔卑斯、日本渔村与数字公地</title>
+      <link>https://51invest.com/history/learn/commons-governance-alps-fisheries-digital/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/commons-governance-alps-fisheries-digital/</guid>
+      <description>本文把“公共资源”“阿尔卑斯”“数字公地”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>铁路狂热的项目融资：承销、授权与破产链</title>
+      <link>https://51invest.com/history/learn/railway-mania-project-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/railway-mania-project-finance/</guid>
+      <description>本文把“项目融资”“承销”“破产链”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>指数基金 1975：从学术论文到产品</title>
+      <link>https://51invest.com/history/learn/index-fund-1975-paper-to-product/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/index-fund-1975-paper-to-product/</guid>
+      <description>本文把“指数基金”“学术证据”“产品化”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>泡沫史料的可检验性：价格、叙事与幸存者偏差</title>
+      <link>https://51invest.com/history/learn/bubble-source-testability/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/bubble-source-testability/</guid>
+      <description>本文把“泡沫”“价格史料”“幸存者偏差”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>铁路狂热：项目融资、承销与破产链</title>
+      <link>https://51invest.com/history/learn/railway-mania-finance-bust/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/railway-mania-finance-bust/</guid>
+      <description>1840 年代英国铁路狂热不是单纯的“股价泡沫”，而是一条项目融资链：发起人、承销商、议会授权和承包商把未来客流折现成当期资本。看清这条链，才能解释为什么破产会集中出现。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>指数基金 1975：从学术论文到产品</title>
+      <link>https://51invest.com/history/learn/index-fund-1975-academic-to-product/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/index-fund-1975-academic-to-product/</guid>
+      <description>指数基金不是自然演化出来的产品。学术证据、监管豁免、销售渠道和费率结构共同把一个“平均收益”想法变成可规模化的金融产品。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>郁金香 1637：价格数据的史料批判</title>
+      <link>https://51invest.com/history/learn/tulip-1637-price-data-critique/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/tulip-1637-price-data-critique/</guid>
+      <description>郁金香狂热常被当成“泡沫”的标准故事，但价格表、合约条款和史料来源都需要批判。把道德叙事与可核对的价格分开，才能判断 1637 年到底发生了什么。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>1840s 铁路数据：如何重建一条投资序列</title>
+      <link>https://51invest.com/history/learn/1840s-railway-investment-series/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/1840s-railway-investment-series/</guid>
+      <description>历史铁路投资没有统一的统计局。把公司招股书、议会法案、股价和线路里程拼成一条序列，需要先处理幸存者偏差、名义价格和重复计算。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>投资政策书：把目标、约束与再平衡写成规则</title>
+      <link>https://51invest.com/invest/learn/investment-policy-statement-objectives-constraints-rebalancing/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-policy-statement-objectives-constraints-rebalancing/</guid>
+      <description>投资政策书不是合规装饰，而是把“为什么投、能承受多少风险、什么时候调整”写成可执行的规则。没有政策书，组合容易被情绪、热点和短期业绩带偏。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>宏观情景树：增长、通胀与政策路径的概率账</title>
+      <link>https://51invest.com/invest/learn/macro-scenario-tree-growth-inflation-policy-probabilities/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/macro-scenario-tree-growth-inflation-policy-probabilities/</guid>
+      <description>宏观预测不是一个点，而是一棵情景树：增长、通胀和政策各有路径，概率决定组合的期望值和尾部风险。把情景写成树，才能知道“如果错了，错在哪里”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行业地图：从价值链到资本回报的尽调清单</title>
+      <link>https://51invest.com/invest/learn/industry-map-value-chain-capital-returns-diligence/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/industry-map-value-chain-capital-returns-diligence/</guid>
+      <description>行业研究的起点不是“讲故事”，而是画地图：谁在上游、谁在下游、利润留在哪一环、资本回报为什么不同。价值链、进入壁垒和资本强度三张图叠在一起，才能判断一家公司赚的是行业结构的钱，还是暂时景气的钱。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>因子拥挤：当同一套 Alpha 变成集体风险</title>
+      <link>https://51invest.com/invest/learn/factor-crowding-alpha-collective-risk-deleveraging/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/factor-crowding-alpha-collective-risk-deleveraging/</guid>
+      <description>因子拥挤不是“很多人用同一个因子”，而是“很多人用同一种交易表达同一个因子”。当杠杆、空头和流动性同向时，一次赎回或去杠杆会让因子收益瞬间反转。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>对冲比率：方差最小、基差与尾部保护的取舍</title>
+      <link>https://51invest.com/invest/learn/hedge-ratio-minimum-variance-basis-tail-protection/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/hedge-ratio-minimum-variance-basis-tail-protection/</guid>
+      <description>对冲比率不是“100% 就对”，而是“要对冲多少、用什么工具、承担多少基差风险”。方差最小比率降低波动，但可能牺牲收益；尾部保护需要非线性工具，而不是简单加空头。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>运气与技能：多期超额收益的归因证据</title>
+      <link>https://51invest.com/invest/learn/luck-vs-skill-multi-period-excess-return-attribution/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/luck-vs-skill-multi-period-excess-return-attribution/</guid>
+      <description>一年跑赢基准可能是运气，十年持续跑赢才可能是技能。判断运气与技能，需要看样本长度、t 统计量、业绩持续性和归因，而不是只看累计收益。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>ESG 数据的口径冲突：评级、披露与组合构建</title>
+      <link>https://51invest.com/invest/learn/esg-data-rating-disclosure-portfolio-construction-conflicts/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/esg-data-rating-disclosure-portfolio-construction-conflicts/</guid>
+      <description>同一家公司在不同 ESG 评级里可能一个 A、一个 C，因为评级机构对“什么算重要”和“怎么打分”不同。组合构建不能只看评级，要回到原始披露、行业背景和财务传导。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>三家公司的盈利质量对照：应计、现金转换与减值</title>
+      <link>https://51invest.com/invest/learn/earnings-quality-three-company-comparison/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/earnings-quality-three-company-comparison/</guid>
+      <description>本文把“应计”“现金转换”“减值”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>技术信号的样本外检验：趋势、成交量与成本</title>
+      <link>https://51invest.com/invest/learn/technical-signals-out-of-sample/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/technical-signals-out-of-sample/</guid>
+      <description>本文把“趋势”“成交量”“交易成本”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>策略相关性：多策略组合真的分散吗</title>
+      <link>https://51invest.com/invest/learn/strategy-correlation-diversification/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/strategy-correlation-diversification/</guid>
+      <description>本文把“策略相关性”“多策略”“分散化”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>开盘/收盘拍卖：流动性、冲击与执行选择</title>
+      <link>https://51invest.com/invest/learn/opening-closing-auctions-execution/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/opening-closing-auctions-execution/</guid>
+      <description>本文把“开盘拍卖”“收盘拍卖”“执行成本”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>投资日志的实证：记录、复盘与决策改进</title>
+      <link>https://51invest.com/invest/learn/investment-journal-evidence/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-journal-evidence/</guid>
+      <description>本文把“投资日志”“复盘”“决策改进”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>长期护理与家庭现金流：长寿风险的尾部</title>
+      <link>https://51invest.com/invest/learn/long-term-care-household-cashflow/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/long-term-care-household-cashflow/</guid>
+      <description>本文把“长期护理”“长寿风险”“家庭现金流”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Wirecard 2020：托管账户、审计确认与监管边界</title>
+      <link>https://51invest.com/invest/learn/wirecard-2020-escrow-audit-supervisory-perimeter/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/wirecard-2020-escrow-audit-supervisory-perimeter/</guid>
+      <description>2020 年 6 月，Wirecard 宣布其声称存放在托管账户的 19 亿欧元“很可能不存在”，一周内申请破产，市值蒸发约 110 亿欧元。把托管账户、审计确认和监管边界放在一条链上，才能看清“报表利润”如何变成“现金黑洞”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>GameStop 2021：订单流、卖空与结算</title>
+      <link>https://51invest.com/invest/learn/gamestop-2021-order-flow-short-interest-settlement/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/gamestop-2021-order-flow-short-interest-settlement/</guid>
+      <description>GME 在 2021 年 1 月从约 18 美元涨到盘中 483 美元，又在数周内跌回 100 美元以下。把卖空比例、散户订单流、券商限制和结算保证金放在一条时间线上，才能分开叙事与市场结构。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>ARKK 2020—2022：叙事、集中度与回撤</title>
+      <link>https://51invest.com/invest/learn/arkk-2020-2022-narrative-concentration-drawdown/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/arkk-2020-2022-narrative-concentration-drawdown/</guid>
+      <description>ARKK 在 2020 年因集中押注创新主题获得极高回报，随后在利率上行和成长股重估中大幅回撤。把叙事、持仓集中度和资金流放在一起，才能区分“策略失效”与“估值周期”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2022 年 60/40 组合：股债同跌的相关性账</title>
+      <link>https://51invest.com/invest/learn/sixty-forty-2022-correlation/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/sixty-forty-2022-correlation/</guid>
+      <description>2022 年股票和债券同时下跌，打破“债券对冲股票”的惯性。通胀冲击让股债相关性转正，60/40 组合的最大回撤提醒：分散化依赖制度环境，不是永久属性。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>碳市场的履约周期：配额、MRV 与价格上限</title>
+      <link>https://51invest.com/markets/learn/carbon-market-compliance-cycle-mrv-price-cap/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/carbon-market-compliance-cycle-mrv-price-cap/</guid>
+      <description>碳市场不是单纯的“排放权交易”，而是一套履约周期：配额发放、排放监测、核查、交割和惩罚。价格上限、配额储备和市场稳定机制决定碳价在压力下会不会失灵。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>领取顺序与年金化：退休账户的提款账</title>
+      <link>https://51invest.com/markets/learn/retirement-withdrawal-order-annuitisation-tax-brackets/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/retirement-withdrawal-order-annuitisation-tax-brackets/</guid>
+      <description>退休提款不是“先花哪个账户”那么简单：税前、税后、社保和年金各有税务、长寿和流动性含义。领取顺序错，可能多缴税、提前耗尽资产或失去年金保险。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币基金流动性分层：零售、机构与赎回</title>
+      <link>https://51invest.com/markets/learn/money-fund-liquidity-tiers/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/money-fund-liquidity-tiers/</guid>
+      <description>本文把“货币基金”“流动性分层”“赎回”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>股权登记、投票与借券：权利如何执行</title>
+      <link>https://51invest.com/markets/learn/share-register-voting-securities-lending/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/share-register-voting-securities-lending/</guid>
+      <description>本文把“股权登记”“投票”“借券”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>跟踪误差：复制、抽样与费用</title>
+      <link>https://51invest.com/markets/learn/tracking-error-replication-sampling/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/tracking-error-replication-sampling/</guid>
+      <description>本文把“跟踪误差”“复制”“抽样”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>信用利差分解：违约、流动性与风险偏好</title>
+      <link>https://51invest.com/markets/learn/credit-spread-decomposition/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/credit-spread-decomposition/</guid>
+      <description>本文把“信用利差”“违约”“流动性”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>ETF 折溢价微观结构：申赎、套利与闭市</title>
+      <link>https://51invest.com/markets/learn/etf-premium-discount-microstructure/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/etf-premium-discount-microstructure/</guid>
+      <description>本文把“ETF 折溢价”“申赎”“套利”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>黄金持有成本：租赁、仓储与期货曲线</title>
+      <link>https://51invest.com/markets/learn/gold-carry-lease-storage-futures/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/gold-carry-lease-storage-futures/</guid>
+      <description>本文把“持有成本”“租赁”“期货曲线”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>铜的库存与期限结构：显性、隐性与挤仓</title>
+      <link>https://51invest.com/markets/learn/copper-inventories-and-curve/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/copper-inventories-and-curve/</guid>
+      <description>本文把“铜库存”“期限结构”“挤仓”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>电力边际定价：机组排序、容量市场与负电价</title>
+      <link>https://51invest.com/markets/learn/power-merit-order-capacity-negative-prices/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/power-merit-order-capacity-negative-prices/</guid>
+      <description>本文把“边际定价”“容量市场”“负电价”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>装置检修与安全库存：供给冲击的传导</title>
+      <link>https://51invest.com/markets/learn/plant-maintenance-safety-stock/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/plant-maintenance-safety-stock/</guid>
+      <description>本文把“装置检修”“安全库存”“供给冲击”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>天气、USDA 报告与基差：产量冲击怎么定价</title>
+      <link>https://51invest.com/markets/learn/weather-usda-basis/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/weather-usda-basis/</guid>
+      <description>本文把“天气”“USDA 报告”“基差”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>汇率传递：进口价格、对冲与美元微笑</title>
+      <link>https://51invest.com/markets/learn/exchange-rate-pass-through/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/exchange-rate-pass-through/</guid>
+      <description>本文把“汇率传递”“进口价格”“对冲”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>交割物流：库容、运费与仓单</title>
+      <link>https://51invest.com/markets/learn/delivery-logistics-storage-freight-warrants/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/delivery-logistics-storage-freight-warrants/</guid>
+      <description>本文把“交割”“库容”“仓单”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>波动率偏斜与期限结构：事件、尾部与对冲</title>
+      <link>https://51invest.com/markets/learn/volatility-skew-term-structure/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/volatility-skew-term-structure/</guid>
+      <description>本文把“波动率偏斜”“期限结构”“尾部风险”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>CDS 与债券基差：信用风险的相对定价</title>
+      <link>https://51invest.com/markets/learn/cds-bond-basis-relative-value/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/cds-bond-basis-relative-value/</guid>
+      <description>本文把“CDS”“债券基差”“相对定价”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>REITs 估值：NOI、Cap rate 与再融资墙</title>
+      <link>https://51invest.com/markets/learn/reit-valuation-noi-cap-rate/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/reit-valuation-noi-cap-rate/</guid>
+      <description>本文把“NOI”“Cap rate”“再融资”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>私募业绩持续性：生存者偏差与净值平滑</title>
+      <link>https://51invest.com/markets/learn/private-fund-persistence-survivorship/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/private-fund-persistence-survivorship/</guid>
+      <description>本文把“业绩持续性”“幸存者偏差”“净值平滑”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>保险负债久期：利率变化如何改变年金</title>
+      <link>https://51invest.com/markets/learn/insurance-liability-duration-annuities/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/insurance-liability-duration-annuities/</guid>
+      <description>本文把“负债久期”“利率”“年金”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>链上结算最终性：托管、私钥与破产隔离</title>
+      <link>https://51invest.com/markets/learn/onchain-finality-custody-bankruptcy/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/onchain-finality-custody-bankruptcy/</guid>
+      <description>本文把“结算最终性”“托管”“破产隔离”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收藏品价格指数：重复交易、幸存者偏差与真伪</title>
+      <link>https://51invest.com/markets/learn/collectibles-price-index/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/collectibles-price-index/</guid>
+      <description>本文把“重复交易”“幸存者偏差”“真伪”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2020 年 4 月 WTI 负价格：交割、库容与保证金</title>
+      <link>https://51invest.com/markets/learn/wti-negative-price-april-2020-delivery-storage-margin/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/wti-negative-price-april-2020-delivery-storage-margin/</guid>
+      <description>5 月合约在到期前一天从 17.73 美元跌到 −37.63 美元。把库容、交割规则和保证金机制放在同一张时间表上，才能理解负价格不是“油不要钱”，而是持仓无法交割。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2022 欧洲天然气：TTF、储气与替代</title>
+      <link>https://51invest.com/markets/learn/european-gas-2022-ttf-storage/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/european-gas-2022-ttf-storage/</guid>
+      <description>2022 年欧洲天然气价格从常态水平冲到每兆瓦时 300 欧元以上，又在暖冬和储气充足后快速回落。把管道流量、储气率、LNG 接卸能力和需求破坏放在一条链上，才能解释价格为什么先失控、后回落。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2018 年“波动率末日”：反向波动率 ETN 与再平衡</title>
+      <link>https://51invest.com/markets/learn/volmageddon-2018-inverse-vol-etn-rebalance/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/volmageddon-2018-inverse-vol-etn-rebalance/</guid>
+      <description>2018 年 2 月 5 日，VIX 从前一日收盘 17.31 升至 37.32，单日涨幅约 116%；XIV 净值跌约 96%，触发清盘。把每日再平衡、反向敞口和清盘条款放在一条链上，才能理解“低波动率交易”为何会自我放大。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2022 REITs 利率冲击：NOI、Cap rate 与再融资</title>
+      <link>https://51invest.com/markets/learn/reits-2022-rate-shock-cap-rates/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/reits-2022-rate-shock-cap-rates/</guid>
+      <description>利率上升时，REITs 同时承受分母（cap rate）上升和分子（NOI）不确定。把租约、债务期限和再融资墙放在一起，才能分辨“价格下跌”与“现金流恶化”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>多源测量的三角验证：卫星、文本与行政数据</title>
+      <link>https://51invest.com/research/learn/triangulation-satellite-text-administrative-data/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/triangulation-satellite-text-administrative-data/</guid>
+      <description>单一数据源都有盲区：卫星看不到地下经济，文本有选择性偏差，行政数据有申报激励。三角验证不是“多找几个来源”，而是用独立误差结构互相校验，估计真实值的区间。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数值稳定性：条件数、矩阵求逆与浮点误差</title>
+      <link>https://51invest.com/research/learn/numerical-stability-condition-number/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/numerical-stability-condition-number/</guid>
+      <description>本文把“条件数”“矩阵求逆”“浮点误差”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>尾部相关与 Copula：危机里相关性为何跳升</title>
+      <link>https://51invest.com/research/learn/tail-correlation-and-copula/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/tail-correlation-and-copula/</guid>
+      <description>本文把“尾部相关”“Copula”“危机”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>单位与量纲：图表里的尺度陷阱</title>
+      <link>https://51invest.com/research/learn/units-and-dimensions-in-charts/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/units-and-dimensions-in-charts/</guid>
+      <description>本文把“单位”“量纲”“图表尺度”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>聚类标准误与面板：显著性幻觉</title>
+      <link>https://51invest.com/research/learn/clustered-standard-errors-panel/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/clustered-standard-errors-panel/</guid>
+      <description>本文把“聚类标准误”“面板”“显著性”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>识别策略比较：DID、IV 与断点</title>
+      <link>https://51invest.com/research/learn/identification-did-iv-rd/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/identification-did-iv-rd/</guid>
+      <description>本文把“DID”“IV”“断点”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>滚动窗口与结构突变：模型什么时候失效</title>
+      <link>https://51invest.com/research/learn/rolling-window-structural-break/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/rolling-window-structural-break/</guid>
+      <description>本文把“滚动窗口”“结构突变”“模型失效”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>事件窗口与泄漏：公告日、漂移与安慰剂</title>
+      <link>https://51invest.com/research/learn/event-windows-leakage-placebo/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/event-windows-leakage-placebo/</guid>
+      <description>本文把“事件窗口”“泄漏”“安慰剂”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数据血统：修订、缺失与管道审计</title>
+      <link>https://51invest.com/research/learn/data-lineage-revisions-missing/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/data-lineage-revisions-missing/</guid>
+      <description>本文把“数据血统”“修订”“缺失”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>一篇论文的复现：从摘要到代码</title>
+      <link>https://51invest.com/research/learn/paper-replication-abstract-to-code/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/paper-replication-abstract-to-code/</guid>
+      <description>本文把“论文复现”“摘要”“代码”放在同一条判断链上，先统一口径，再谈机制和边界。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Anscombe 四重奏与麦芽酒税：回归设定错误</title>
+      <link>https://51invest.com/research/learn/anscombe-quartet-regression-specification/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/anscombe-quartet-regression-specification/</guid>
+      <description>四组数据可以有相同的均值、方差和回归系数，却呈现完全不同的形状。Anscombe 四重奏提醒：先画图、再回归；系数相同不等于模型正确。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>2008 俄勒冈医保抽签：随机分配与政策评估</title>
+      <link>https://51invest.com/research/learn/oregon-medicaid-lottery-2008-random-assignment/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/oregon-medicaid-lottery-2008-random-assignment/</guid>
+      <description>俄勒冈在 2008 年用抽签从约 9 万人的等待名单中选出约 3 万人，最终约 1 万人参保。这个“不得已的行政安排”变成了随机实验，让研究者能估计医保对就诊、处方和债务的因果影响。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>FDA 批准事件研究：窗口与泄漏</title>
+      <link>https://51invest.com/research/learn/fda-approval-event-study-windows-leakage/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/fda-approval-event-study-windows-leakage/</guid>
+      <description>FDA 批准是典型的信息事件，但批准日期、泄漏时点和市场预期会同时进入收益。窗口选得越宽，越容易把其他消息混进来；窗口太窄，又可能漏掉提前反应。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>FRED vintage 复现：修订如何改变结论</title>
+      <link>https://51invest.com/research/learn/fred-vintage-revision-conclusions/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/fred-vintage-revision-conclusions/</guid>
+      <description>同一季度 GDP 在首次公布、二次估计和多年后终值可以相差几个百分点。用终值回测当时决策，会高估信息可得性；用 vintage 数据，才能复现“当时知道什么”。</description>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>合约、专用资产与组织边界：交易成本的价格账</title>
+      <link>https://51invest.com/economics/learn/contracts-specific-assets-organizational-boundaries/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/contracts-specific-assets-organizational-boundaries/</guid>
+      <description>市场、长期合约和企业内部组织不是三种意识形态，而是三套处理交易成本的办法。专用资产越高，签约双方越容易被“锁定”，事前投资就越可能被事后重新谈判侵蚀；把签约、监督、执行和官僚成本放在同一张账上，才能判断一项交易该放在市场、合约还是企业里。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国的国际收支与产业链位置：外部账怎么读</title>
+      <link>https://51invest.com/economics/learn/china-external-balance-and-value-chain-position/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/china-external-balance-and-value-chain-position/</guid>
+      <description>一个国家的对外账本不只有贸易顺差一个数字。经常账户等于储蓄减投资，净国外资产还会被汇率和估值改变； gros exports 里包含进口零部件，只有增加值份额才说明本国真正赚到多少。把储蓄—投资、增加值贸易、净国外资产和储备覆盖放在一起，才能读懂中国与全球经济的连接方式。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融中介与直接融资：储蓄如何变成投资</title>
+      <link>https://51invest.com/finance/learn/financial-intermediation-and-funding-flows/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/financial-intermediation-and-funding-flows/</guid>
+      <description>金融不是“钱生钱”，而是把分散的储蓄、风险和期限重新排列，送到需要资金的项目手里。直接融资让资金使用者面对投资者，间接融资让银行等中介先吸收存款再发放贷款；两条路的成本、信息和风险承担完全不同。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>利率口径与利差：同一笔资金价格的不同标签</title>
+      <link>https://51invest.com/finance/learn/rate-conventions-and-credit-spreads/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/rate-conventions-and-credit-spreads/</guid>
+      <description>同一个 5% 可能是名义利率、实际利率、票面利率、到期收益率或年化百分比，差别不只是小数点。把通胀、复利频率、信用和流动性溢价拆开，才能比较两笔资金到底谁更贵。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>保险定价与养老金负债：风险共担的账</title>
+      <link>https://51invest.com/finance/learn/insurance-pricing-and-pension-liabilities/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/insurance-pricing-and-pension-liabilities/</guid>
+      <description>保险不是把风险消灭，而是把许多人的小概率大损失汇成一个可预测的池子。保费要覆盖预期赔付、运营成本和资本占用，准备金要覆盖未来给付；养老金则把当前缴费与未来承诺分开记账，缺口最终要由缴费、投资收益或财政补足。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>跨境支付与储备货币：国际金融的管道</title>
+      <link>https://51invest.com/finance/learn/cross-border-payments-and-reserve-currencies/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/cross-border-payments-and-reserve-currencies/</guid>
+      <description>跨境支付不是把一笔钱“传过去”，而是银行、清算系统、代理行和外汇市场共同完成的一串记账。储备货币之所以特殊，是因为它同时充当支付工具、融资货币和价值储存；储备覆盖率则把汇率稳定与进口支付能力放在一张表上。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>代币化存款与稳定币：支付基础设施的账</title>
+      <link>https://51invest.com/finance/learn/tokenized-deposits-and-stablecoin-infrastructure/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/tokenized-deposits-and-stablecoin-infrastructure/</guid>
+      <description>稳定币和代币化存款都把“存款”搬到可编程账本上，但责任主体、储备资产和赎回权完全不同。判断它们是否安全，不能只看链上价格，而要看储备覆盖、赎回顺序、结算最终性和谁来承担挤兑。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>挤兑、杠杆与传染：金融稳定的压力测试</title>
+      <link>https://51invest.com/finance/learn/bank-runs-leverage-and-contagion/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/bank-runs-leverage-and-contagion/</guid>
+      <description>金融稳定不是“没有波动”，而是系统在冲击下仍能完成支付和融资。挤兑是流动性问题，杠杆放大损失，传染把单个机构的失败变成网络事件；压力测试要把这三层分开，再放回同一张资产负债表。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>披露、适当性与利益冲突：监管的三本账</title>
+      <link>https://51invest.com/finance/learn/disclosure-suitability-and-conflicts-of-interest/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/disclosure-suitability-and-conflicts-of-interest/</guid>
+      <description>金融监管不只是“多写几张表格”。披露解决信息不对称，适当性解决产品与客户的匹配，利益冲突解决“谁替谁做决定”。三本账各管一段，不能互相替代；把客户资产、市场诚信和机构激励放在同一张表上，才能判断一条规则是否真的保护了投资者。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>从亚里士多德到阿奎那：财富、利息与交换的边界</title>
+      <link>https://51invest.com/history/learn/aristotle-aquinas-wealth-interest-exchange/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/aristotle-aquinas-wealth-interest-exchange/</guid>
+      <description>早期经济思想不是“古代版经济学”，而是在家庭、城邦与救赎的框架里讨论交换是否公正、货币是否自然、利息是否可取。亚里士多德把谋生与无限敛财分开，阿奎那再把高利贷、公平价格和欺诈放进中世纪神学与法律。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>马克思的资本循环：从《资本论》到社会主义核算</title>
+      <link>https://51invest.com/history/learn/marx-capital-circuit-and-socialist-accounting/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/marx-capital-circuit-and-socialist-accounting/</guid>
+      <description>马克思把资本看成一个不断变换形态的运动：货币买生产资料和劳动力，生产出商品，商品再卖成更多货币。剩余价值、资本有机构成和再生产图式，是他解释利润来源与危机可能性的核心工具。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>边际革命：杰文斯、门格尔与瓦尔拉斯的交换世界</title>
+      <link>https://51invest.com/history/learn/marginal-revolution-jevons-menger-walras/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/marginal-revolution-jevons-menger-walras/</guid>
+      <description>边际革命把经济学的重心从“生产多少”转向“多一单位值多少”。杰文斯、门格尔和瓦尔拉斯几乎同时发现：价值来自边际效用，均衡来自交换比例；马歇尔再把边际分析写成可教学的价格理论。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>凯恩斯之后：货币主义、新古典与新凯恩斯</title>
+      <link>https://51invest.com/history/learn/after-keynes-monetarism-new-classical-new-keynesian/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/after-keynes-monetarism-new-classical-new-keynesian/</guid>
+      <description>凯恩斯把有效需求、不确定性和政策空间带进宏观经济学；战后争论则围绕“财政政策有多灵、货币有多重要、预期如何改变规则”。货币主义、新古典和新凯恩斯不是三个口号，而是三套关于冲击、预期和政策反应的模型。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>大分流与制度比较：区域历史的证据</title>
+      <link>https://51invest.com/history/learn/great-divergence-and-institutional-comparison/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/great-divergence-and-institutional-comparison/</guid>
+      <description>为什么西欧在 19 世纪率先工业化，而其他地区没有？大分流争论把地理、制度、殖民、能源和知识网络放在同一张比较表上。本文把欧洲与美洲、亚洲、非洲和中东的代表性经验放到同一张表上，再给出制度比较的四条检查。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>从铸币到央行：银行、保险与支付的历史</title>
+      <link>https://51invest.com/history/learn/from-coin-to-central-bank-banking-insurance-pensions/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/from-coin-to-central-bank-banking-insurance-pensions/</guid>
+      <description>现代金融中介不是一次设计出来的。铸币、票据、存款、保险和养老金在不同时代解决不同问题：支付、远距离结算、风险共担和老年保障。中央银行则是在危机与战争中逐步获得发行货币、最后贷款和监管职能。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>战争融资与主权债务：国家能力的账</title>
+      <link>https://51invest.com/history/learn/war-finance-and-sovereign-debt/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/war-finance-and-sovereign-debt/</guid>
+      <description>主权债务不是“政府欠钱”这么简单，而是国家在战争、税收和信用之间的跨期交换。债务比率由利率、增长和 primary balance 共同决定；能否借到钱、借多久、以什么币种借，反映的是国家能力与可信承诺。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>从共同基金到指数与量化：投资思想的机构化</title>
+      <link>https://51invest.com/history/learn/mutual-funds-indexing-and-quant-investment-history/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/mutual-funds-indexing-and-quant-investment-history/</guid>
+      <description>投资思想从“挑选好公司”逐步扩展到“组合、指数、因子和量化”。共同基金把分散投资变成大众产品，指数基金把低成本 beta 变成可复制工具，因子研究再把收益来源拆成可检验的暴露。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>宏观到资产：增长、通胀与政策如何定价</title>
+      <link>https://51invest.com/invest/learn/macro-to-assets-growth-inflation-policy/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/macro-to-assets-growth-inflation-policy/</guid>
+      <description>宏观研究不是预测一个 GDP 数字，而是把增长、通胀、政策利率和风险溢价连成一条资产定价链。实际利率、盈利预期和贴现率各自移动，资产价格就会重新排列；同一份宏观数据，对不同资产的含义并不一样。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行业与公司：护城河与资本回报</title>
+      <link>https://51invest.com/invest/learn/industry-structure-and-company-quality/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/industry-structure-and-company-quality/</guid>
+      <description>行业研究回答“钱从哪里来、为什么能持续”，公司研究回答“这家企业能否把行业利润变成自己的资本回报”。护城河不是品牌口号，而是能阻止竞争侵蚀回报的结构：网络、切换成本、规模、专利和位置。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>财报质量：利润、现金与应计</title>
+      <link>https://51invest.com/invest/learn/earnings-quality-accruals-and-cash/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/earnings-quality-accruals-and-cash/</guid>
+      <description>利润是会计口径，现金是经济口径。应计利润高、现金转化低，可能意味着收入确认激进、营运资本膨胀或一次性收益；财报质量分析就是把利润拆回现金和资本，再看可持续性。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>策略的收益来源：beta、因子与容量</title>
+      <link>https://51invest.com/invest/learn/strategy-return-sources-beta-factors-capacity/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/strategy-return-sources-beta-factors-capacity/</guid>
+      <description>任何策略的收益都可以拆成市场 beta、可识别因子、真正的 alpha 和运气。把收益来源拆开，才能判断它是否可复制、是否会被容量和费用吃掉；高收益不等于高能力。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>对冲与压力：保护的成本</title>
+      <link>https://51invest.com/invest/learn/hedging-and-stress-testing-cost-of-protection/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/hedging-and-stress-testing-cost-of-protection/</guid>
+      <description>对冲不是消除风险，而是把风险换成另一种形状：期货对冲锁住价格但放弃上行，期权保护付出权利金但保留部分上行。压力测试则回答“极端情景下，保护是否还起作用”。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>绩效归因：收益从哪里来</title>
+      <link>https://51invest.com/invest/learn/performance-attribution-allocation-selection/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/performance-attribution-allocation-selection/</guid>
+      <description>绩效归因把组合与基准的差异拆成配置、选择和交互三部分：选对行业、选对个股、以及两者叠加的效果。没有归因，业绩好坏只能靠故事；有了归因，才能判断下一次是否可复制。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行为偏差与投资纪律：知道不等于做到</title>
+      <link>https://51invest.com/invest/learn/behavior-biases-and-investment-discipline/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/behavior-biases-and-investment-discipline/</guid>
+      <description>投资者最大的风险有时不是市场，而是自己的行为：过度交易、处置效应、追涨杀跌、过度自信和近因偏差。纪律不是意志力口号，而是把决策规则、仓位限制和检查清单写成可执行的流程。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>家庭资产负债表：人力资本、住房与养老</title>
+      <link>https://51invest.com/invest/learn/household-balance-sheet-human-capital-housing-pensions/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/household-balance-sheet-human-capital-housing-pensions/</guid>
+      <description>家庭不只是“有多少钱”，还有未来工资、住房、养老金和负债。人力资本像一只债券，住房像一只本地资产，养老金像一只长期基金；把它们放在一张表上，才能判断风险是否集中。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>责任投资与职业伦理：把偏好写进组合</title>
+      <link>https://51invest.com/invest/learn/responsible-investment-and-professional-ethics/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/responsible-investment-and-professional-ethics/</guid>
+      <description>责任投资不是“做好事就能多赚钱”，而是把环境、社会和治理偏好转成可执行的筛选、参与和披露规则。职业伦理则要求把客户利益、利益冲突和适当性放在销售之前。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>环境容量与专业市场：碳、水与天气如何定价</title>
+      <link>https://51invest.com/markets/learn/environmental-capacity-and-specialised-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/environmental-capacity-and-specialised-markets/</guid>
+      <description>环境容量是一种稀缺资源：排放权、水权、天气风险都可以被计量、分配和交易。专业市场把“谁有权用多少、谁承担天气损失”变成价格，但价格是否有效，取决于配额、监测和履约制度。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>REITs 与基础设施：现金流、杠杆与估值</title>
+      <link>https://51invest.com/markets/learn/reits-and-infrastructure-cash-flow-leverage-valuation/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/reits-and-infrastructure-cash-flow-leverage-valuation/</guid>
+      <description>REITs 把不动产的租金现金流装进可交易份额；基础设施基金把收费权、管网和电站的长期现金流装进类似结构。两者都靠稳定现金流吸引投资者，也都受利率、杠杆和资产质量约束。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>私募与对冲基金：费用、锁定期与流动性</title>
+      <link>https://51invest.com/markets/learn/private-funds-and-hedge-funds-fees-locks-liquidity/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/private-funds-and-hedge-funds-fees-locks-liquidity/</guid>
+      <description>私募基金和对冲基金卖的不是“一只股票”，而是一套策略、费用和流动性安排。2/20 费用、锁定期、侧袋和赎回门槛决定了投资者拿到多少净收益，也决定了危机时能不能退出。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>养老产品与账户：年金、目标日期与税优</title>
+      <link>https://51invest.com/markets/learn/retirement-products-and-accounts-annuities-target-date/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/retirement-products-and-accounts-annuities-target-date/</guid>
+      <description>养老产品解决的是“退休后还有没有现金流”，账户解决的是“钱在哪个税制容器里”。年金把储蓄变成终身收入，目标日期基金把配置随年龄下滑，税优账户则把缴费和领取的时点重新排列。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>回归与计量：系数、标准误与因果</title>
+      <link>https://51invest.com/research/learn/regression-and-econometrics-coefficients-standard-errors-causality/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/regression-and-econometrics-coefficients-standard-errors-causality/</guid>
+      <description>回归给出的是条件相关，不是自动的因果。系数大小、标准误、置信区间和模型设定共同决定结论强度；把标准误读小、把控制变量堆多，都会制造虚假的确定性。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>预测与机器学习：样本外、过拟合与基线</title>
+      <link>https://51invest.com/research/learn/forecasting-and-machine-learning-out-of-sample-overfitting/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/forecasting-and-machine-learning-out-of-sample-overfitting/</guid>
+      <description>预测模型的成败不在训练集，而在样本外。基线、滚动窗口、过拟合和多重比较决定模型是否真的有用；复杂模型若输给简单基线，复杂就是成本而不是优势。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>另类数据与复杂系统：信号、噪声与网络</title>
+      <link>https://51invest.com/research/learn/alternative-data-and-complex-systems-signal-noise-networks/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/alternative-data-and-complex-systems-signal-noise-networks/</guid>
+      <description>另类数据不是“更多数据”，而是“不同生成过程的数据”：卫星图像、刷卡、招聘、航运和社交文本。复杂系统则提醒我们，变量之间有反馈、阈值和网络传染，线性外推经常失效。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>研究阅读与写作：问题、证据与复现</title>
+      <link>https://51invest.com/research/learn/research-reading-and-writing-question-evidence-reproduction/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/research-reading-and-writing-question-evidence-reproduction/</guid>
+      <description>好的研究不是“观点加数据”，而是“问题可回答、证据可核查、结论有边界”。阅读时要先看问题与识别，再结论；写作时要把数据、方法、稳健性和局限写到别人能复现。</description>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>机会成本与沉没成本</title>
+      <link>https://51invest.com/economics/learn/opportunity-cost/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/opportunity-cost/</guid>
+      <description>机会成本衡量选择时放弃的次优替代方案；沉没成本已经无法收回，不应继续左右下一步决策。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>边际与激励</title>
+      <link>https://51invest.com/economics/learn/margin-and-incentives/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/margin-and-incentives/</guid>
+      <description>边际决策比较再多做一单位的收益与成本，激励则通过改变这两个量来改变行为。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>供给需求与均衡</title>
+      <link>https://51invest.com/economics/learn/supply-demand-equilibrium/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/supply-demand-equilibrium/</guid>
+      <description>需求与供给曲线描述价格和数量的关系，均衡是两者交点；沿曲线移动和曲线移动是不同问题。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>需求弹性</title>
+      <link>https://51invest.com/economics/learn/elasticity-of-demand/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/elasticity-of-demand/</guid>
+      <description>需求价格弹性衡量需求量对价格的敏感程度，决定提价后销量与收入如何变化。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>效用与预算约束</title>
+      <link>https://51invest.com/economics/learn/utility-and-budget-constraint/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/utility-and-budget-constraint/</guid>
+      <description>效用衡量消费者从商品组合中获得的满足，预算约束划定可负担范围；最后一元的边际效用相等时，组合达到最优。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>生产与成本</title>
+      <link>https://51invest.com/economics/learn/production-and-cost/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/production-and-cost/</guid>
+      <description>生产函数把投入转换为产出，成本随产量与投入价格变化；本篇只覆盖短期成本与产量决策，边际成本决定多生产一单位是否值得，平均可变成本决定短期是否停产，平均总成本决定该价格能否覆盖全部成本。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>竞争与垄断</title>
+      <link>https://51invest.com/economics/learn/competition-and-monopoly/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/competition-and-monopoly/</guid>
+      <description>完全竞争厂商接受市场价格，按价格等于边际成本生产；垄断者面对向下倾斜的需求曲线，按边际收益等于边际成本限制产量并抬高价格。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>外部性与公共品</title>
+      <link>https://51invest.com/economics/learn/externalities-and-public-goods/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/externalities-and-public-goods/</guid>
+      <description>外部性是交易对第三方产生且不经过价格反映的影响，公共品同时具有非排他性和非竞争性；两者都会使市场自行提供的数量偏离效率水平。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>GDP 与国民经济核算</title>
+      <link>https://51invest.com/economics/learn/gdp-and-national-accounts/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/gdp-and-national-accounts/</guid>
+      <description>GDP 是一定时期内一国境内生产的最终产品和服务的市场价值；生产、收入和支出三种核算方法理论上给出同一总量。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>名义值与实际值</title>
+      <link>https://51invest.com/economics/learn/nominal-and-real-values/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/nominal-and-real-values/</guid>
+      <description>名义值按当期价格计算，实际值用价格指数剔除通胀；只有实际值才适合比较不同时期的数量变化。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>价格指数与通胀</title>
+      <link>https://51invest.com/economics/learn/price-indices-and-inflation/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/price-indices-and-inflation/</guid>
+      <description>价格指数用固定篮子的成本变化衡量价格水平，通胀率是价格指数的百分比变化；指数水平本身不是通胀率。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>就业与失业</title>
+      <link>https://51invest.com/economics/learn/employment-and-unemployment/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/employment-and-unemployment/</guid>
+      <description>失业率衡量失业人数占劳动力的比例，分母是劳动力而不是总人口；它不反映退出劳动力的人，也不反映工时不足。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>消费与储蓄</title>
+      <link>https://51invest.com/economics/learn/consumption-and-saving/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/consumption-and-saving/</guid>
+      <description>消费是家庭对最终商品和服务的支出，储蓄是可支配收入中未消费的部分；储蓄率衡量这种分配比例，而不是某一时点的存款余额。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>投资与资本形成</title>
+      <link>https://51invest.com/economics/learn/investment-and-capital-formation/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/investment-and-capital-formation/</guid>
+      <description>资本形成指按总投资口径对生产性资产的获得减处置，包括固定资本形成、存货和贵重物品；只有净资本形成才等于资本存量的净增加。国民核算中的投资按固定投资、存货变动与贵重物品净获得计，净投资还要扣除折旧，因此总投资为正不代表资本存量一定增加。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>增长与生产率</title>
+      <link>https://51invest.com/economics/learn/growth-and-productivity/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/growth-and-productivity/</guid>
+      <description>经济增长来自投入增加与生产率提高；人均产出能否持续上升，取决于劳动生产率，而不是单纯延长劳动时间。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>经济周期</title>
+      <link>https://51invest.com/economics/learn/business-cycle/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/business-cycle/</guid>
+      <description>经济周期是总体经济活动在扩张与收缩之间的交替；衰退从峰到谷，扩张从谷到峰，日期多在事后确定。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币政策传导</title>
+      <link>https://51invest.com/economics/learn/monetary-policy-transmission/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/monetary-policy-transmission/</guid>
+      <description>货币政策通过利率、信用、资产价格、汇率与预期影响总需求，从政策利率到产出和通胀存在时滞与漏损。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>财政政策与乘数</title>
+      <link>https://51invest.com/economics/learn/fiscal-policy-and-multiplier/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/fiscal-policy-and-multiplier/</guid>
+      <description>财政政策通过政府支出与税收影响总需求；乘数把初始支出变化放大为更大的均衡产出变化，但受漏出、挤出与供给约束限制。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>国际收支</title>
+      <link>https://51invest.com/economics/learn/balance-of-payments/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/balance-of-payments/</guid>
+      <description>国际收支是一国居民与非居民在一定时期内全部经济交易的系统记录；经常账户逆差对应境外资金净流入。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>汇率制度与开放经济</title>
+      <link>https://51invest.com/economics/learn/exchange-rate-regimes/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/exchange-rate-regimes/</guid>
+      <description>汇率制度决定名义汇率由市场、规则还是官方干预确定；固定与浮动的取舍，核心是汇率稳定与货币政策独立性。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>比较优势与贸易</title>
+      <link>https://51invest.com/economics/learn/comparative-advantage-and-trade/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/comparative-advantage-and-trade/</guid>
+      <description>比较优势按机会成本而非绝对生产率判断分工；即使一方在所有产品上都更高效，双方仍可通过专业化与贸易获益。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收入分配与不平等</title>
+      <link>https://51invest.com/economics/learn/income-distribution-and-inequality/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/income-distribution-and-inequality/</guid>
+      <description>收入分配描述收入在家庭之间的分布；五分位份额、洛伦兹曲线和基尼系数衡量不平等，但口径决定结论。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>博弈与信息</title>
+      <link>https://51invest.com/economics/learn/games-and-information/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/games-and-information/</guid>
+      <description>当行动结果取决于他人的选择，且一方知道得比另一方多时，博弈与信息框架给出可检验的均衡与合约判断。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>劳动人口与教育</title>
+      <link>https://51invest.com/economics/learn/labor-population-and-education/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/labor-population-and-education/</guid>
+      <description>劳动市场把人口、技能、迁移与家庭决策连接起来，工资和教育回报是这些力量共同作用的结果。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>产业创新与数字经济</title>
+      <link>https://51invest.com/economics/learn/industry-innovation-and-digital-economy/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/industry-innovation-and-digital-economy/</guid>
+      <description>创新把研发、扩散、知识产权和竞争政策连成一条链；数字经济改变的是成本结构、网络效应与市场进入方式。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>城市区域与空间</title>
+      <link>https://51invest.com/economics/learn/cities-regions-and-space/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/cities-regions-and-space/</guid>
+      <description>城市与区域经济把距离、密度和土地放在同一个分析框架里：集聚带来效率，拥挤与地租带来成本。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>环境能源与农业</title>
+      <link>https://51invest.com/economics/learn/environment-energy-and-agriculture/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/environment-energy-and-agriculture/</guid>
+      <description>环境、能源与农业问题共享一个结构：资源使用产生外部成本，价格与产权决定谁来承担，自然条件限制替代速度。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行为实验与公共服务</title>
+      <link>https://51invest.com/economics/learn/behavior-experiments-and-public-services/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/behavior-experiments-and-public-services/</guid>
+      <description>行为经济学用可观察的偏差修正标准模型，实验与公共服务则把这些偏差转化为可检验、可撤回的政策工具。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>法律组织与比较经济</title>
+      <link>https://51invest.com/economics/learn/law-organizations-and-comparative-economies/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/law-organizations-and-comparative-economies/</guid>
+      <description>法律与组织决定谁承担成本、谁拥有决策权；比较经济把这些规则放进不同制度传统中检验。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国与全球经济</title>
+      <link>https://51invest.com/economics/learn/china-and-the-global-economy/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/china-and-the-global-economy/</guid>
+      <description>中国与全球经济的关系由贸易、投资、产业链和制度选择共同塑造，任何单一指标都不足以概括。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>教育回报、人口结构与劳动参与</title>
+      <link>https://51invest.com/economics/learn/education-returns-population-and-labor-participation/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/education-returns-population-and-labor-participation/</guid>
+      <description>教育提高生产率和劳动参与，但回报受质量、匹配、人口结构和计量偏误影响，不能只看学历溢价。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>信息不对称、信号与机制设计</title>
+      <link>https://51invest.com/economics/learn/information-asymmetry-signaling-and-mechanism-design/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/information-asymmetry-signaling-and-mechanism-design/</guid>
+      <description>当一方知道得更多，价格和合同会扭曲；信号、筛选和激励机制试图用可验证的成本把信息显出来。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>规模经济、范围经济与产能利用率</title>
+      <link>https://51invest.com/economics/learn/scale-scope-and-capacity-utilization/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/scale-scope-and-capacity-utilization/</guid>
+      <description>规模经济来自固定成本被更大产量摊薄和专业化，范围经济来自多条产品线共享能力，产能利用率则衡量实际产出离可持续最大产出有多远。三者都能降低成本，但都有边界：协调成本、需求不足和质量折损会把“更大”变成“更贵”。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>市场集中度、进入壁垒与平台竞争</title>
+      <link>https://51invest.com/economics/learn/market-concentration-entry-barriers-and-platform-competition/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/market-concentration-entry-barriers-and-platform-competition/</guid>
+      <description>市场集中度描述份额如何分布，进入壁垒描述新对手为何难进来，平台竞争则把网络效应、多归属和转换成本放进同一张图。高集中度不自动等于高价格，低集中度也不自动等于竞争充分；关键是市场边界、进入条件和实际行为。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>增长核算：资本深化、人力资本与 TFP</title>
+      <link>https://51invest.com/economics/learn/growth-accounting-capital-deepening-and-tfp/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/growth-accounting-capital-deepening-and-tfp/</guid>
+      <description>增长核算把产出增长拆成资本、劳动、人力资本和全要素生产率四块。它能回答“增长主要来自多投入，还是来自更高效地使用投入”，但不能把 TFP 残差直接当成技术进步；测量误差、利用率、配置和租金都会混在里面。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>外部性、庇古税与总量控制：价格工具何时有效</title>
+      <link>https://51invest.com/economics/learn/externalities-pigouvian-taxes-and-cap-and-trade/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/externalities-pigouvian-taxes-and-cap-and-trade/</guid>
+      <description>外部性让私人成本漏掉社会成本，庇古税用价格把损害装回决策，总量控制则直接限制排放数量。两种工具都能纠正过度生产，但价格确定性与数量确定性不能同时保证；损害测度、泄漏和交易成本决定它们何时有效。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币政策传导：利率、信用与资产负债表渠道</title>
+      <link>https://51invest.com/economics/learn/monetary-policy-transmission-channels-and-lags/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/monetary-policy-transmission-channels-and-lags/</guid>
+      <description>货币政策不是把政策利率贴到每个借款人脸上，而是通过资金成本、信用条件、资产价格、汇率和预期一层层传到支出与通胀。传导有滞后、有漏损，也会被固定利率、银行资本和供给冲击削弱。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>财政乘数：支出、税收与自动稳定器</title>
+      <link>https://51invest.com/economics/learn/fiscal-multipliers-spending-taxes-and-stabilizers/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/fiscal-multipliers-spending-taxes-and-stabilizers/</guid>
+      <description>财政乘数不是固定常数，而是“第一轮冲击 → 收入 → 消费 → 再收入”的反馈链被漏损后的结果。政府购买、减税和转移支付的乘数不同，自动稳定器会在下行时自动缓冲，但开放经济、债务约束和供给瓶颈会改变最终效果。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>关税、配额与贸易协定：贸易壁垒的福利账</title>
+      <link>https://51invest.com/economics/learn/tariffs-quotas-trade-agreements-welfare-ledger/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/tariffs-quotas-trade-agreements-welfare-ledger/</guid>
+      <description>关税和配额都抬高国内价格，但关税收入归政府、配额租金归许可证持有人，贸易协定则降低成员间壁垒而保留规则成本。福利账要把消费者损失、生产者收益、财政收入和效率损失分开记。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>产权、国家能力与发展的制度条件</title>
+      <link>https://51invest.com/economics/learn/property-rights-state-capacity-development-institutions/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/property-rights-state-capacity-development-institutions/</guid>
+      <description>产权保护降低投资被侵占的风险，国家能力决定规则能否执行、税收能否转化为公共品。制度不是抽象标签，而是一组可检查的条件：产权登记、合同执行、财政征收、承诺与问责。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>研发、扩散与平台：创新政策的收益与边界</title>
+      <link>https://51invest.com/economics/learn/rd-diffusion-platforms-innovation-policy/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/rd-diffusion-platforms-innovation-policy/</guid>
+      <description>研发的社会收益常高于私人收益，知识外溢造成私人投资不足；专利、补贴、公共研究和标准是不同工具。平台与人工智能又用网络效应、数据和规模改变创新收益的分配，政策要同时看激励、扩散和进入。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>城市土地与通勤：空间均衡的价格账</title>
+      <link>https://51invest.com/economics/learn/land-commuting-housing-spatial-equilibrium/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/land-commuting-housing-spatial-equilibrium/</guid>
+      <description>城市空间由三笔账共同定价：靠近就业中心带来的便利、通勤与拥挤的成本、以及住房供给对价格的响应。把地租梯度、通勤成本和供给弹性放在一起，才能解释为什么同样的城市增长有时表现为更高房价，有时表现为更长通勤和更低密度。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>碳价、配额与减排成本：气候政策的配置账</title>
+      <link>https://51invest.com/economics/learn/carbon-prices-allowances-abatement-costs/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/carbon-prices-allowances-abatement-costs/</guid>
+      <description>碳税把排放价格固定下来，排放交易把排放总量固定下来；两者都让企业先做最便宜的减排，但配额如何分配、收入如何使用、排放是否泄漏，决定了同一碳价背后的成本由谁承担。气候政策的核心不是选一个工具名称，而是把边际减排成本、覆盖范围和配套政策对齐。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>默认选项、助推与公共服务：行为干预的效应与边界</title>
+      <link>https://51invest.com/economics/learn/defaults-nudges-public-services/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/defaults-nudges-public-services/</guid>
+      <description>默认选项和提醒能提高公共服务参与率，但试验里的效应不等于规模化后的效应。把平均处理效应、单位成本、样本量、持续性和外溢放在同一张账上，才能判断一项行为干预是值得推广，还是只在一个小场景里有效。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>信用关系</title>
+      <link>https://51invest.com/finance/learn/credit-relationships/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/credit-relationships/</guid>
+      <description>信用关系是资金跨期转移的合约：出借人让渡购买力，借款人承诺按约定偿还本金和利息；可执行性、信息与抵押品决定这种关系能否成立。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>银行资产负债表</title>
+      <link>https://51invest.com/finance/learn/bank-balance-sheets/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/bank-balance-sheets/</guid>
+      <description>银行资产负债表把准备金、贷款和证券列为资产，把存款和借款列为负债，差额是权益；它显示银行靠别人的钱经营，也说明为什么存款不是银行的自有资金。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>存款贷款与信用创造</title>
+      <link>https://51invest.com/finance/learn/deposits-lending-and-credit-creation/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/deposits-lending-and-credit-creation/</guid>
+      <description>银行发放贷款时在借款人账户记入等额存款，货币由此产生；信用创造受准备金、资本、流动性与借款需求约束，货币乘数只是上限而非精确预测。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中央银行资产负债表</title>
+      <link>https://51invest.com/finance/learn/central-bank-balance-sheets/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/central-bank-balance-sheets/</guid>
+      <description>中央银行资产负债表把证券、放款和外汇储备列为资产，把流通中现金与银行准备金列为负债；它记录基础货币如何投放，也说明央行扩表并不需要先有存款。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>准备金与流动性</title>
+      <link>https://51invest.com/finance/learn/reserves-and-liquidity/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/reserves-and-liquidity/</guid>
+      <description>准备金是银行存放在中央银行的余额，流动性是银行按时偿付而不遭受不可接受损失的能力；准备金只是流动性的一层，法定准备金率也不能代替流动性监管。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>支付清算与结算</title>
+      <link>https://51invest.com/finance/learn/payment-clearing-and-settlement/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/payment-clearing-and-settlement/</guid>
+      <description>支付发起价值转移，清算核对指令并计算应收应付，结算用央行货币或合格资产完成最终转账；三者分工不同，净额能节省流动性，却把信用与流动性风险集中到清算环节。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>托管与资产权利</title>
+      <link>https://51invest.com/finance/learn/custody-and-asset-rights/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/custody-and-asset-rights/</guid>
+      <description>托管把资产的保管、交收与记录交给专业机构，但不当然改变受益所有权；客户资产能否隔离、权利能否顺利行使，取决于账户结构、协议与适用法律。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>单利与复利</title>
+      <link>https://51invest.com/finance/learn/simple-and-compound-interest/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/simple-and-compound-interest/</guid>
+      <description>单利只按本金计息，复利把利息并入本金继续计息；同样的利率和期限，计息方式与复利频率不同，终值和有效年利率就会不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>现值与现金流贴现</title>
+      <link>https://51invest.com/finance/learn/present-value-and-discounted-cash-flows/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/present-value-and-discounted-cash-flows/</guid>
+      <description>现值把未来现金流按贴现率换算到今天，现金流贴现把多期现金流逐期折现后相加；贴现率、时点和现金流假设共同决定结果。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>利率种类与口径</title>
+      <link>https://51invest.com/finance/learn/interest-rate-types-and-conventions/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/interest-rate-types-and-conventions/</guid>
+      <description>同一个利率数字可能对应不同计息、年化和风险口径；先统一口径，再比较资金价格。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>风险溢价</title>
+      <link>https://51invest.com/finance/learn/risk-premium/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/risk-premium/</guid>
+      <description>风险溢价是风险资产预期回报高于无风险利率的部分；它补偿不可分散的风险，而不是所有波动。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>一价定律与无套利</title>
+      <link>https://51invest.com/finance/learn/law-of-one-price-and-no-arbitrage/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/law-of-one-price-and-no-arbitrage/</guid>
+      <description>未来现金流相同的索取权应有相同价格；无套利把这一约束变成可检验的定价基准，但摩擦会让偏离持续。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>资产定价模型入门</title>
+      <link>https://51invest.com/finance/learn/asset-pricing-models-introduction/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/asset-pricing-models-introduction/</guid>
+      <description>资产定价模型把系统性风险映射为要求回报，再用该回报贴现现金流；CAPM 是最简单的单因子基准。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>资本成本</title>
+      <link>https://51invest.com/finance/learn/cost-of-capital/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/cost-of-capital/</guid>
+      <description>资本成本是投资者提供资金要求的回报，也是公司评估项目的最低门槛；加权平均资本成本按市场价值权重组合债务与权益成本，只适用于风险相近的项目。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>会计等式</title>
+      <link>https://51invest.com/finance/learn/accounting-equation/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/accounting-equation/</guid>
+      <description>资产等于负债加权益，是资产负债表的基本恒等式；它描述资金来源与用途，不代表资产按市价变现或公司一定安全。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>利润表</title>
+      <link>https://51invest.com/finance/learn/income-statement/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/income-statement/</guid>
+      <description>利润表汇总一段期间内的收入、费用和利润，按权责发生制确认；净利润不等于现金流，阅读时要区分毛利、营业利润和一次性项目。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>现金流量表</title>
+      <link>https://51invest.com/finance/learn/cash-flow-statement/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/cash-flow-statement/</guid>
+      <description>现金流量表按经营、投资和筹资活动列示一段期间内的现金收支，并通过间接法将净利润调节为经营现金流；它补充利润表，但不能单独说明公司的全部价值。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>权责发生制</title>
+      <link>https://51invest.com/finance/learn/accrual-accounting/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/accrual-accounting/</guid>
+      <description>权责发生制在收入赚取和费用发生的期间确认，而不是在现金收付时确认；它提高期间可比性，但依赖估计，利润与现金流仍可能背离。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>企业融资来源</title>
+      <link>https://51invest.com/finance/learn/sources-of-corporate-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/sources-of-corporate-finance/</guid>
+      <description>企业融资来源分为内部留存收益与外部债务、权益；不同来源在索取权、成本、控制权和期限上不同，选择来源要与目标资本结构匹配。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>资本结构</title>
+      <link>https://51invest.com/finance/learn/capital-structure/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/capital-structure/</guid>
+      <description>资本结构是债务与权益融资的相对比例；完美市场下杠杆不改变企业价值，税盾与财务困境成本共同决定目标负债水平。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>分红与回购</title>
+      <link>https://51invest.com/finance/learn/dividends-and-buybacks/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/dividends-and-buybacks/</guid>
+      <description>分红按持股比例把利润支付给股东，回购用现金买回股份并减少流通股数；两者都返还现金，但每股效果、执行规则和披露要求不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>公司治理与利益冲突</title>
+      <link>https://51invest.com/finance/learn/corporate-governance-and-conflicts/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/corporate-governance-and-conflicts/</guid>
+      <description>公司治理是股东、董事会、管理层与利益相关者之间的权责安排；独立董事、委员会、关联交易披露和投票权等机制用于约束利益冲突，但不能消除代理成本。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融导论</title>
+      <link>https://51invest.com/finance/learn/introduction-to-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/introduction-to-finance/</guid>
+      <description>金融要处理的是储蓄、风险、期限和信息在盈余方与短缺方之间的重新安排；“钱生钱”只是表面。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融机构</title>
+      <link>https://51invest.com/finance/learn/financial-institutions/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/financial-institutions/</guid>
+      <description>金融机构的差别不在招牌，而在资产负债表、期限转换方式、收入来源与监管边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>保险与养老制度</title>
+      <link>https://51invest.com/finance/learn/insurance-and-pension-systems/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/insurance-and-pension-systems/</guid>
+      <description>保险与养老都是跨期风险安排：前者把不确定的个体损失汇成可定价的池子，后者把工作期的收入转移到退休期。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>国际金融体系</title>
+      <link>https://51invest.com/finance/learn/international-financial-system/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/international-financial-system/</guid>
+      <description>国际金融体系是一套跨境的支付、信贷与储备安排；它的效率来自网络，脆弱性也来自网络。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数字金融基础</title>
+      <link>https://51invest.com/finance/learn/foundations-of-digital-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/foundations-of-digital-finance/</guid>
+      <description>数字金融改变支付与结算的技术层，但货币的负债归属、信用风险与法律权利仍要逐项辨认。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融稳定</title>
+      <link>https://51invest.com/finance/learn/financial-stability/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/financial-stability/</guid>
+      <description>金融稳定指系统在冲击下仍能完成支付、储蓄、借贷与投资，不发生连锁失败；没有波动并不等于稳定。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>监管法律与伦理</title>
+      <link>https://51invest.com/finance/learn/regulation-law-and-ethics/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/regulation-law-and-ethics/</guid>
+      <description>金融监管保护的是可执行的权利与市场诚信；伦理处理的是规则没有写尽时的判断责任。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金融机构资产负债表与期限/信用转换</title>
+      <link>https://51invest.com/finance/learn/financial-institution-balance-sheets-and-transformation/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/financial-institution-balance-sheets-and-transformation/</guid>
+      <description>金融机构把短期负债变成长期资产，同时承担期限、信用和流动性风险；资本和流动性缓冲决定它能承受多大冲击。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>早期经济思想</title>
+      <link>https://51invest.com/history/learn/early-economic-thought/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/early-economic-thought/</guid>
+      <description>从亚里士多德到阿奎那，早期经济思想围绕家计、交换公平、货币与利息展开；本文以原始文本为例，说明其问题、语境与解释边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>重商主义与重农主义</title>
+      <link>https://51invest.com/history/learn/mercantilism-and-physiocracy/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/mercantilism-and-physiocracy/</guid>
+      <description>重商主义与重农主义都追问财富来源和国家角色，却给出不同答案；本文比较两者的语境、文本、批评与后世误读。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>古典政治经济学</title>
+      <link>https://51invest.com/history/learn/classical-political-economy/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/classical-political-economy/</guid>
+      <description>从斯密、马尔萨斯到李嘉图，古典政治经济学围绕财富增长、价值、分配与贸易展开；本文以原始文本为例，说明其问题、方法与解释边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>马克思主义经济学的形成</title>
+      <link>https://51invest.com/history/learn/formation-of-marxist-economics/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/formation-of-marxist-economics/</guid>
+      <description>从1848年《共产党宣言》到1867年《资本论》第一卷，马克思把资本主义作为历史制度来分析；本文梳理其文本、核心论证、争论与后世误读。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>边际革命与新古典</title>
+      <link>https://51invest.com/history/learn/marginal-revolution-and-neoclassical-economics/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/marginal-revolution-and-neoclassical-economics/</guid>
+      <description>19世纪70年代起，杰文斯、门格尔与瓦尔拉斯把价值解释转向边际效用，马歇尔再将效用、成本与时间整合；本文说明这场变化的主张、证据与边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>凯恩斯革命与战后争论</title>
+      <link>https://51invest.com/history/learn/keynesian-revolution-and-postwar-debates/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/keynesian-revolution-and-postwar-debates/</guid>
+      <description>从1920年代的货币论战到《通论》、1946年就业法、菲利普斯曲线与滞胀，本文梳理凯恩斯革命的文本、政策化与后续争论，并区分凯恩斯本人与“凯恩斯主义”。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>制度行为与多元传统</title>
+      <link>https://51invest.com/history/learn/institutional-behavioral-and-pluralist-traditions/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/institutional-behavioral-and-pluralist-traditions/</guid>
+      <description>从凡勃伦的制度批判到西蒙的有限理性、卡尼曼与特沃斯基的前景理论，再到奥斯特罗姆的多中心治理，本文说明这些传统如何挑战理性人模型，以及它们各自的方法与边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>农业商业与早期市场</title>
+      <link>https://51invest.com/history/learn/agriculture-commerce-and-early-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/agriculture-commerce-and-early-markets/</guid>
+      <description>从1086年土地清册到18世纪农业商业化，考察英格兰为主的农业、贸易与市场制度演变，以及这一演变中的连续性与断裂。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>工业革命与长期增长</title>
+      <link>https://51invest.com/history/learn/industrial-revolution-and-long-run-growth/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/industrial-revolution-and-long-run-growth/</guid>
+      <description>从18世纪英国的技术与工厂变革到1913年的跨国赶超，考察工业革命为何发生、增长如何加速，以及“革命”叙事与长期统计之间的张力。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>全球化贸易与发展分化</title>
+      <link>https://51invest.com/history/learn/globalization-trade-and-divergence/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/globalization-trade-and-divergence/</guid>
+      <description>从李嘉图的比较优势到21世纪的贸易开放度，考察全球化如何扩大又部分缩小国家间收入差距，并区分理论收益与历史分配结果。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国古代经济制度与商业</title>
+      <link>https://51invest.com/history/learn/economic-institutions-and-commerce-in-imperial-china/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/economic-institutions-and-commerce-in-imperial-china/</guid>
+      <description>从北宋官交子到明清赋役折银，考察帝制中国的土地赋役、货币与市场制度，以及国家能力与商业扩张之间的张力。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国近代经济转型</title>
+      <link>https://51invest.com/history/learn/chinas-modern-economic-transition/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/chinas-modern-economic-transition/</guid>
+      <description>从1842年五口通商到1948年人民币发行，考察条约口岸、协定关税、近代工业与货币统一如何重塑中国经济，以及统计与解释的边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>中国现代工业化</title>
+      <link>https://51invest.com/history/learn/chinas-modern-industrialization/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/chinas-modern-industrialization/</guid>
+      <description>从1952年工业增加值120亿元到2023年占GDP 31.7%，考察中国工业化的阶段、统计口径与产量背后的效率问题。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>改革开放与市场发展</title>
+      <link>https://51invest.com/history/learn/reform-opening-and-market-development/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/reform-opening-and-market-development/</guid>
+      <description>从1978年到2023年，考察改革开放如何扩大市场、改变贸易与增长结构，并区分政策、数据与解释。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币制度的演变</title>
+      <link>https://51invest.com/history/learn/evolution-of-monetary-systems/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/evolution-of-monetary-systems/</guid>
+      <description>从商品货币、铸币和可兑换纸币到法定货币，考察发行主体、兑付承诺与货币可信度如何变化。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>银行与中央银行史</title>
+      <link>https://51invest.com/history/learn/history-of-banking-and-central-banks/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/history-of-banking-and-central-banks/</guid>
+      <description>从 Stockholms Banco 到英格兰银行特许法、再到美联储成立，本文按可核来源讲银行与中央银行制度的关键节点、职能演变与早期约束。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>公共债务与财政史</title>
+      <link>https://51invest.com/history/learn/public-debt-and-fiscal-history/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/public-debt-and-fiscal-history/</guid>
+      <description>以英国和美国为例，考察17世纪末以来战争、税收与经济增长如何塑造公共债务水平与债务管理。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>金本位布雷顿森林与浮动汇率</title>
+      <link>https://51invest.com/history/learn/gold-standard-bretton-woods-and-floating-rates/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/gold-standard-bretton-woods-and-floating-rates/</guid>
+      <description>从古典金本位到布雷顿森林，再到1971年关闭黄金窗口，考察固定汇率、可兑换性与调整机制如何更替。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>股份公司与证券市场史</title>
+      <link>https://51invest.com/history/learn/history-of-joint-stock-companies-and-securities-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/history-of-joint-stock-companies-and-securities-markets/</guid>
+      <description>从1694年英格兰银行特许设立、1720年南海泡沫、1792年纽约经纪人协议到1929年股灾，考察股份公司、交易所与监管如何相互塑造。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>基金指数与投资思想史</title>
+      <link>https://51invest.com/history/learn/history-of-funds-indices-and-investment-thought/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/history-of-funds-indices-and-investment-thought/</guid>
+      <description>从1924年美国第一只开放式共同基金到1976年面向个人投资者的第一只指数基金，考察指数、共同基金与投资思想如何互相强化；行情指数起始年份的异说未能对源，只作本文保留。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>期货期权与风险转移史</title>
+      <link>https://51invest.com/history/learn/history-of-futures-options-and-risk-transfer/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/history-of-futures-options-and-risk-transfer/</guid>
+      <description>从1848年芝加哥期货交易所到1974年CFTC与1982年期货期权，考察标准化合约、保证金与清算如何把价格风险变成可交易之物。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>泡沫危机比较阅读</title>
+      <link>https://51invest.com/history/learn/bubbles-and-crises-comparison/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/bubbles-and-crises-comparison/</guid>
+      <description>比较 1929 与 2008 两次危机，先重建当时信息，再比较机制、制度、政策和结果，而不是只比较跌幅。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>区域与比较历史</title>
+      <link>https://51invest.com/history/learn/regional-and-comparative-history/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/regional-and-comparative-history/</guid>
+      <description>区域与比较历史把不同大陆的经验放在同一组问题下对照，关心的是条件、制度与测量口径的差异，不是谁先谁后。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>公共资源治理与制度分析</title>
+      <link>https://51invest.com/history/learn/commons-governance-and-institutional-analysis/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/commons-governance-and-institutional-analysis/</guid>
+      <description>公共资源不是只能靠国有化或私有化解决；边界、规则、监督和分级制裁可以形成多中心治理。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>泡沫比较：1637、1720、1929 与 2008</title>
+      <link>https://51invest.com/history/learn/bubble-comparison-1637-1720-1929-2008/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/bubble-comparison-1637-1720-1929-2008/</guid>
+      <description>四次著名泡沫的资产、杠杆和制度背景不同；比较的是机制，不是把价格曲线叠在一起。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>实际收益与购买力</title>
+      <link>https://51invest.com/invest/learn/real-returns-and-purchasing-power/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/real-returns-and-purchasing-power/</guid>
+      <description>用费雪关系把净名义收益换成实际收益，并把费用、税费和通胀放进同一条计算链；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>选择投资基准</title>
+      <link>https://51invest.com/invest/learn/choosing-an-investment-benchmark/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/choosing-an-investment-benchmark/</guid>
+      <description>先按目标与可投资范围选参照系，再统一收益、费用与频率口径；示例数字均为假设，市场指数本身不能直接投资。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>建立投资研究流程</title>
+      <link>https://51invest.com/invest/learn/investment-research-process/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-research-process/</guid>
+      <description>把“看法”变成可追溯、可证伪的研究档案：先写问题与反证条件，再按 10-K、8-K 与 EDGAR 核对原始文件；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>宏观情景分析</title>
+      <link>https://51invest.com/invest/learn/macro-scenario-analysis/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/macro-scenario-analysis/</guid>
+      <description>把宏观判断写成可复算的条件情景：基线、通胀上行与衰退路径，再映射到组合暴露；示例数字均为假设，不构成预测或建议。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行业竞争与商业模式</title>
+      <link>https://51invest.com/invest/learn/industry-competition-and-business-models/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/industry-competition-and-business-models/</guid>
+      <description>用行业结构、单位经济与资本回报判断利润能否持续：先看利润池和进入壁垒，再算客户终身价值与获客回收期；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>盈利质量分析</title>
+      <link>https://51invest.com/invest/learn/earnings-quality-analysis/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/earnings-quality-analysis/</guid>
+      <description>用现金流、应计、收入质量、非 GAAP 调整与附注判断利润能否持续：先对账净利润与经营现金流，再解释差异；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>现金流估值的研究流程</title>
+      <link>https://51invest.com/invest/learn/cash-flow-valuation-research-process/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/cash-flow-valuation-research-process/</guid>
+      <description>用未来自由现金流、折现率与终值估算价值区间：先重建基期现金流，再逐期折现并做敏感性；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>相对估值的可比性</title>
+      <link>https://51invest.com/invest/learn/comparability-in-relative-valuation/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/comparability-in-relative-valuation/</guid>
+      <description>相对估值先看可比性，再看倍数：先定义问题与同业，统一日期、资本结构与会计口径，再解释差异；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>反向估值与预期</title>
+      <link>https://51invest.com/invest/learn/reverse-valuation-and-expectations/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/reverse-valuation-and-expectations/</guid>
+      <description>把市场价格当作已知，反推价格隐含的增长或回报假设，再检验这些预期是否可信；示例数字均为假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>估值敏感性与情景</title>
+      <link>https://51invest.com/invest/learn/valuation-sensitivity-and-scenarios/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/valuation-sensitivity-and-scenarios/</guid>
+      <description>用敏感性表和概率加权情景检验估值结论对关键假设的依赖；示例数字均为教学假设。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>趋势与价格成交量</title>
+      <link>https://51invest.com/invest/learn/trend-price-and-volume/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/trend-price-and-volume/</guid>
+      <description>用均线、收盘价和成交量判断趋势是否成立，并说明滞后、假突破与样本外检验；示例为假设数据。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>常见技术指标的计算与局限</title>
+      <link>https://51invest.com/invest/learn/technical-indicators-calculation-and-limits/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/technical-indicators-calculation-and-limits/</guid>
+      <description>用同一组假设价格复算 SMA、EMA、MACD 与随机指标，说明参数、滞后与信号冲突。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>因子策略的经济解释</title>
+      <link>https://51invest.com/invest/learn/factor-strategies-economic-interpretation/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/factor-strategies-economic-interpretation/</guid>
+      <description>用价值因子的 12 个月假设数据说明因子组合的构造、收益来源与成本检验，区分统计显著与经济可行。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>回测结果的投资解读</title>
+      <link>https://51invest.com/invest/learn/interpreting-backtest-results/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/interpreting-backtest-results/</guid>
+      <description>用一组假设的 60 个月回测数据，说明如何分开检验统计显著性、交易成本、多重尝试和样本外表现，避免把历史拟合当成未来收益。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>分散化与共同风险</title>
+      <link>https://51invest.com/invest/learn/diversification-and-common-risk/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/diversification-and-common-risk/</guid>
+      <description>分散化能降低个别资产的特有风险，却无法消除所有资产共同承受的市场与衰退风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>资产配置与风险预算</title>
+      <link>https://51invest.com/invest/learn/asset-allocation-and-risk-budgeting/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/asset-allocation-and-risk-budgeting/</guid>
+      <description>用两资产假设例子说明资本权重与风险贡献的差别，给出波动率、边际风险贡献和风险预算的计算步骤，并说明杠杆、相关性与估计误差的边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>仓位与再平衡</title>
+      <link>https://51invest.com/invest/learn/position-sizing-and-rebalancing/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/position-sizing-and-rebalancing/</guid>
+      <description>用 100 万元假设组合说明如何按风险预算确定仓位、用 5 个百分点阈值触发再平衡，并计算交易额、成本与漂移后的风险暴露。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>对冲的目的与代价</title>
+      <link>https://51invest.com/invest/learn/hedging-purpose-and-cost/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/hedging-purpose-and-cost/</guid>
+      <description>用咖啡采购的假设例子说明期货与期权如何锁定价格、放弃部分上行并留下基差风险，并计算保证金、融资、手续费和有效价格。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>绩效评价与归因</title>
+      <link>https://51invest.com/invest/learn/performance-evaluation-and-attribution/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/performance-evaluation-and-attribution/</guid>
+      <description>用一组假设的股票/债券组合，把 8.7% 的组合收益与 6.8% 的基准收益比较，扣除 0.60% 费用后分解配置、选择与交互效应，并说明一年样本为何不足以证明能力。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>交易执行与滑点</title>
+      <link>https://51invest.com/invest/learn/trade-execution-and-slippage/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/trade-execution-and-slippage/</guid>
+      <description>用一笔假设的 2 万股买单，把 50.00 元的决策价与 50.18 元的成交均价比较，拆出 36 个基点的滑点、3 个基点的佣金和 39 个基点的实施缺口，并说明限价单的成交风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>行为偏差与投资日志</title>
+      <link>https://51invest.com/invest/learn/behavioral-biases-and-investment-journal/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/behavioral-biases-and-investment-journal/</guid>
+      <description>用 30 笔假设决策的投资日志，示范如何记录事前理由、失效条件和偏差标签，并用遵守率、持有期差和结果差复盘，而不是用盈亏评价决策质量。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>家庭财富与退休投资规划</title>
+      <link>https://51invest.com/invest/learn/household-wealth-and-retirement-planning/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/household-wealth-and-retirement-planning/</guid>
+      <description>用一对 40 岁夫妇的假设资产负债表，把 70% 替代率、2.5% 通胀和 25 年退休期换算成 464 万元目标资产，对照 553 万元的推算值，并用回报与长寿压力测试说明 119% 的充足率并不稳固。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>投资策略</title>
+      <link>https://51invest.com/invest/learn/investment-strategies/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-strategies/</guid>
+      <description>投资策略是一组能复述清楚的收益来源、风险暴露、容量约束与交易成本，不只是一个风格标签。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>责任投资与职业实践</title>
+      <link>https://51invest.com/invest/learn/responsible-investing-and-professional-practice/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/responsible-investing-and-professional-practice/</guid>
+      <description>责任投资把环境、社会与治理信息纳入尽调和组合约束；职业实践则要求把适当性、利益冲突与客户资产放在可核查的位置。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>交易成本分析：冲击、滑点与 VWAP/TWAP</title>
+      <link>https://51invest.com/invest/learn/transaction-cost-analysis-impact-slippage-vwap-twap/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/transaction-cost-analysis-impact-slippage-vwap-twap/</guid>
+      <description>交易成本不只是一笔佣金，而是决策价与成交价之间由延迟、价差、冲击和机会成本组成的缺口。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>普通股与优先股</title>
+      <link>https://51invest.com/markets/learn/common-and-preferred-shares/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/common-and-preferred-shares/</guid>
+      <description>两类股票都是公司权益，但投票权、股息顺序、清偿顺序与退出条款不同；权利来自公司章程和发行文件。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>债券的权利与现金流</title>
+      <link>https://51invest.com/markets/learn/bond-rights-and-cash-flows/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/bond-rights-and-cash-flows/</guid>
+      <description>债券是发行人的债务，持有人按发行文件收取票息与本金；票息、价格、收益率和风险不能混为一谈。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>指数与投资基准</title>
+      <link>https://51invest.com/markets/learn/indices-and-investment-benchmarks/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/indices-and-investment-benchmarks/</guid>
+      <description>指数是按公开规则计算的市场表现，不是可直接持有的产品；基准用于评价组合，二者都须核对方法与口径。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>基金的基本结构</title>
+      <link>https://51invest.com/markets/learn/fund-structures/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/fund-structures/</guid>
+      <description>基金把众多投资者的资金集合起来按合同投资；法律形式、份额权利、估值和退出机制比名称更能说明风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>ETF 的申赎与折溢价</title>
+      <link>https://51invest.com/markets/learn/etf-creation-redemption-and-premiums/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/etf-creation-redemption-and-premiums/</guid>
+      <description>ETF 在交易所按市价交易，授权参与者以创设单位向基金申赎，通常以净值定价；套利通常缩小折溢价，但不是保证。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>银行理财与信托产品</title>
+      <link>https://51invest.com/markets/learn/bank-wealth-management-and-trust-products/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/bank-wealth-management-and-trust-products/</guid>
+      <description>银行理财与信托产品都是非保本的资产管理产品；发行主体、法律关系、投资者门槛、退出和披露规则不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>黄金持有方式比较</title>
+      <link>https://51invest.com/markets/learn/gold-holding-methods/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/gold-holding-methods/</guid>
+      <description>实物黄金、黄金 ETF 和黄金期货都提供黄金敞口，但法律权利、现金流、杠杆和风险完全不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>白银的工业与投资属性</title>
+      <link>https://51invest.com/markets/learn/silver-industrial-and-investment-roles/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/silver-industrial-and-investment-roles/</guid>
+      <description>白银既被电子、光伏和钎焊消耗，也可被储存和交易；工业需求与投资需求共同影响其价格与风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>铜与工业金属</title>
+      <link>https://51invest.com/markets/learn/copper-and-industrial-metals/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/copper-and-industrial-metals/</guid>
+      <description>铜是建筑、电网、交通和电子设备的基础材料；实物、期货和矿业股提供不同权利与风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>黑色金属产业链</title>
+      <link>https://51invest.com/markets/learn/steel-supply-chain/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/steel-supply-chain/</guid>
+      <description>从铁矿、焦煤和废钢到粗钢、热轧卷板与螺纹钢，钢铁产业链的现金流、成本与风险沿加工环节逐级传递。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>原油与成品油</title>
+      <link>https://51invest.com/markets/learn/crude-oil-and-refined-products/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/crude-oil-and-refined-products/</guid>
+      <description>原油是炼厂原料，成品油是炼厂产出；原油期货、成品油期货与炼油利润对应不同的权利和现金流。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>天然气与电力市场</title>
+      <link>https://51invest.com/markets/learn/natural-gas-and-electricity-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/natural-gas-and-electricity-markets/</guid>
+      <description>天然气是可储存、可运输的商品，电力是必须实时平衡的二次能源；两者的合约、成本和风险不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>谷物油籽与农业供需</title>
+      <link>https://51invest.com/markets/learn/grains-oilseeds-and-agricultural-supply/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/grains-oilseeds-and-agricultural-supply/</guid>
+      <description>谷物和油籽按品种、等级与交货期定价；天气、库存、压榨利润和基差共同决定农业供应链的现金流与风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>软商品与畜牧产品</title>
+      <link>https://51invest.com/markets/learn/soft-commodities-and-livestock/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/soft-commodities-and-livestock/</guid>
+      <description>咖啡、可可、糖和棉花受产地天气与分级影响，活牛和生猪受生物周期与饲料成本影响；两类产品的合约与交割不同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>外汇报价与交易工具</title>
+      <link>https://51invest.com/markets/learn/fx-quotes-and-trading-instruments/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/fx-quotes-and-trading-instruments/</guid>
+      <description>外汇以货币对报价；即期、远期、掉期、期货和期权对应不同的权利、现金流、保证金与对手方风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>期货合约与保证金</title>
+      <link>https://51invest.com/markets/learn/futures-contracts-and-margin/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/futures-contracts-and-margin/</guid>
+      <description>期货是交易所标准化合约，双方缴纳保证金并每日盯市；杠杆、追保和交割规则决定损失与退出方式。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>期权的权利义务与收益结构</title>
+      <link>https://51invest.com/markets/learn/options-rights-obligations-and-payoffs/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/options-rights-obligations-and-payoffs/</guid>
+      <description>期权买方支付权利金获得行权权利，卖方收取权利金承担履约义务；收益结构由行权价、权利金和到期价格共同决定。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>互换与结构化产品</title>
+      <link>https://51invest.com/markets/learn/swaps-and-structured-products/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/swaps-and-structured-products/</guid>
+      <description>互换交换的是现金流而非本金，结构化产品把债务工具与衍生条款组合；两者都依赖交易对手、抵押品和发行文件。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>房地产与 REITs</title>
+      <link>https://51invest.com/markets/learn/real-estate-and-reits/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/real-estate-and-reits/</guid>
+      <description>房地产可以直接持有，也可以通过 REITs 持有；REITs 的税收地位取决于分配、股东和资产测试，上市与非上市份额的流动性差别很大。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>私募股权信贷与对冲基金</title>
+      <link>https://51invest.com/markets/learn/private-equity-private-credit-and-hedge-funds/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/private-equity-private-credit-and-hedge-funds/</guid>
+      <description>对冲基金通常只向合格投资者募集，私募信贷基金多为封闭式且不向零售投资者开放；它们与私募股权在资产、杠杆、现金流和退出方式上各不相同，共同点是流动性有限。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>保险与养老产品结构</title>
+      <link>https://51invest.com/markets/learn/insurance-and-retirement-products/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/insurance-and-retirement-products/</guid>
+      <description>保险和养老产品都管理长期风险，但保险转移特定事件风险，养老账户提供税收与储蓄安排，二者不能互相替代。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数字资产与数字金融分类</title>
+      <link>https://51invest.com/markets/learn/digital-assets-and-digital-finance/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/digital-assets-and-digital-finance/</guid>
+      <description>数字资产不是单一资产类别；代币、稳定币、DeFi 和央行数字货币的法律权利、托管与风险各不相同。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>化工、橡胶与材料</title>
+      <link>https://51invest.com/markets/learn/chemicals-rubber-and-materials/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/chemicals-rubber-and-materials/</guid>
+      <description>化工、橡胶与材料是典型的中间品市场：它们连接能源、制造与建筑，价格由产能周期、原料成本和物流半径共同决定。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>环境、运力与专业市场</title>
+      <link>https://51invest.com/markets/learn/environmental-freight-and-specialty-markets/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/environmental-freight-and-specialty-markets/</guid>
+      <description>环境与运力市场交易的是权利、容量或服务，而不是标准化商品；标准、履约与市场深度决定价格能否被解释。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>养老产品与账户</title>
+      <link>https://51invest.com/markets/learn/retirement-products-and-accounts/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/retirement-products-and-accounts/</guid>
+      <description>养老产品由“账户规则 + 产品结构 + 领取方式”三层组成；任何一层的变化都会改变最终收入和风险。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收藏品与其他另类资产</title>
+      <link>https://51invest.com/markets/learn/collectibles-and-other-alternatives/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/collectibles-and-other-alternatives/</guid>
+      <description>另类收藏的定价依赖真伪、权利、保管与流动性；没有可执行的权利和可验证的来源，价格只是故事。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>化工产业链：原料、价差与库存</title>
+      <link>https://51invest.com/markets/learn/chemical-value-chain-spreads-and-inventory/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/chemical-value-chain-spreads-and-inventory/</guid>
+      <description>化工品的价值不只在单一价格，而在原料、加工、牌号、区域和库存共同决定的价差。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收藏品估值：真伪、来源与流动性</title>
+      <link>https://51invest.com/markets/learn/collectibles-valuation-authenticity-and-liquidity/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/collectibles-valuation-authenticity-and-liquidity/</guid>
+      <description>收藏品的价格来自稀缺、来源和需求，但真伪、交易成本与退出流动性决定了买家实际拿到什么。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>基差、展期与交割</title>
+      <link>https://51invest.com/markets/learn/futures-basis-roll-and-delivery/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/futures-basis-roll-and-delivery/</guid>
+      <description>期货价格与现货价格的差、展期成本和交割规则共同决定套保与持有收益，不能只看期货涨跌。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>汇率制度、NDF 与跨境套保</title>
+      <link>https://51invest.com/markets/learn/fx-regimes-ndf-and-cross-border-hedging/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/fx-regimes-ndf-and-cross-border-hedging/</guid>
+      <description>汇率制度决定哪些工具可用，NDF 用现金结算绕开交割限制，但基差、监管和对手方风险仍要计入。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>期权定价与波动率曲面</title>
+      <link>https://51invest.com/markets/learn/option-pricing-and-volatility-surface/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/option-pricing-and-volatility-surface/</guid>
+      <description>期权价格把方向、时间、波动率和利率分开报价；不同行权价与到期日的隐含波动率构成曲面。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>指数编制：自由流通与基准选择</title>
+      <link>https://51invest.com/markets/learn/index-construction-free-float-and-benchmarks/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/index-construction-free-float-and-benchmarks/</guid>
+      <description>指数不是市场本身，而是一套可复制的筛选、加权、封顶和再平衡规则；基准选择会改变业绩归因。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>股权融资、治理与股东权利</title>
+      <link>https://51invest.com/markets/learn/equity-financing-governance-and-shareholder-rights/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/equity-financing-governance-and-shareholder-rights/</guid>
+      <description>股权融资用所有权换资金，稀释、投票权、优先权和治理条款决定老股东实际让出了什么。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>互换定价与结构化分层</title>
+      <link>https://51invest.com/markets/learn/swaps-pricing-and-structured-tranching/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/swaps-pricing-and-structured-tranching/</guid>
+      <description>互换把两笔现金流交换，结构化产品再把底层资产切成不同优先顺序；定价核心是净现值、对手方和条款。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>信用利差、久期与违约回收</title>
+      <link>https://51invest.com/markets/learn/credit-spreads-duration-and-recovery/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/credit-spreads-duration-and-recovery/</guid>
+      <description>信用债的收益率高出无风险利率，补偿违约、回收不确定、流动性和条款；久期放大利率与利差变动。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>稳定币、托管与链上结算风险</title>
+      <link>https://51invest.com/markets/learn/stablecoins-custody-and-onchain-settlement/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/stablecoins-custody-and-onchain-settlement/</guid>
+      <description>稳定币是发行人的负债，不是银行存款；储备、赎回权、托管和链上最终性决定它能否在压力下保持锚定。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>频率与时间对齐</title>
+      <link>https://51invest.com/research/learn/frequency-and-time-alignment/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/frequency-and-time-alignment/</guid>
+      <description>不同频率的序列要先统一参考期与可得信息；高频汇总通常较稳，低频拆分依赖假设，发布时点和时区也会改变日期。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>季调与数据修订</title>
+      <link>https://51invest.com/research/learn/seasonal-adjustment-and-revisions/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/seasonal-adjustment-and-revisions/</guid>
+      <description>季节调整剥离日历性波动，调整后的数值又会被定期修订；当月环比小于典型修订幅度时，它还不是趋势证据。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>坐标双轴与误导图表</title>
+      <link>https://51invest.com/research/learn/axes-dual-axes-and-misleading-charts/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/axes-dual-axes-and-misleading-charts/</guid>
+      <description>坐标轴把数值映射成位置；改变轴范围或引入第二纵轴，能在不改动任何数据的情况下凭空造出交叉和同向走势。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>指数化对数与增长率</title>
+      <link>https://51invest.com/research/learn/indexing-logarithms-and-growth-rates/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/indexing-logarithms-and-growth-rates/</guid>
+      <description>指数把水平换成相对基期的比例，对数把比例换成可相加的变化；增长率、复合年增长率和翻倍时间只有在对口径、对基期一致时才可比较。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>缺失异常与样本选择</title>
+      <link>https://51invest.com/research/learn/missing-data-outliers-and-sample-selection/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/missing-data-outliers-and-sample-selection/</guid>
+      <description>同一个“平均增长”会随谁被抽中、谁回答、缺失值怎么补和异常值怎么处理而改变；报告规则和敏感性区间，比报告一个精确数字更诚实。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>可复现研究流程</title>
+      <link>https://51invest.com/research/learn/reproducible-research-workflow/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/reproducible-research-workflow/</guid>
+      <description>可复现的意思是：别人拿到数据版本、代码、环境和说明后，能用一条命令重算出同一张表。代码能跑一次不算；可重算也不等于结论正确。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>概率分布与期望方差</title>
+      <link>https://51invest.com/research/learn/probability-distributions-expectation-and-variance/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/probability-distributions-expectation-and-variance/</guid>
+      <description>概率分布用每个可能结果的概率描述随机变量；期望是长期平均，方差与标准差衡量离散程度。它们描述假设的分布，不预测下一期结果。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>协方差与相关性</title>
+      <link>https://51invest.com/research/learn/covariance-and-correlation/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/covariance-and-correlation/</guid>
+      <description>协方差和相关系数描述两个变量的线性共同变动；它们不识别因果，也不能替代对样本、时间对齐和异常值的检查。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>抽样与置信区间</title>
+      <link>https://51invest.com/research/learn/sampling-and-confidence-intervals/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/sampling-and-confidence-intervals/</guid>
+      <description>置信区间把样本均值和抽样误差放在一起，给出总体均值的一个范围；95% 指重复抽样下约 95% 的区间会覆盖总体均值，而不是这个区间有 95% 的概率包含它。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>假设检验与实际意义</title>
+      <link>https://51invest.com/research/learn/hypothesis-testing-and-practical-significance/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/hypothesis-testing-and-practical-significance/</guid>
+      <description>假设检验把“没有差异”作为原假设，用样本判断证据是否足够拒绝它；p 值小只说明与零假设不一致，不等于效应大、重要或真实。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>线性回归入门</title>
+      <link>https://51invest.com/research/learn/linear-regression-introduction/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/linear-regression-introduction/</guid>
+      <description>线性回归用一条直线概括两个变量的平均关系；斜率、截距和 R² 描述样本，显著性和因果解释取决于设计、假设与证据边界。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>控制变量与混杂</title>
+      <link>https://51invest.com/research/learn/control-variables-and-confounding/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/control-variables-and-confounding/</guid>
+      <description>控制变量用于阻断混杂路径，而不是把所有可得变量都放进回归；简单相关在调整混杂后会减弱，但调整本身也可能引入新偏差。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>因果关系与识别</title>
+      <link>https://51invest.com/research/learn/causality-and-identification/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/causality-and-identification/</guid>
+      <description>因果识别靠的是用设计或假设，把观察数据映射到反事实；回归跑出显著结果并不够。随机实验提供基准，观察性方法各有不可替代的条件。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>趋势非平稳与伪回归</title>
+      <link>https://51invest.com/research/learn/trends-nonstationarity-and-spurious-regression/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/trends-nonstationarity-and-spurious-regression/</guid>
+      <description>两个各自带趋势的非平稳序列可能产生很高的 R² 和显著斜率，即使它们彼此独立；水平回归的显著性必须与趋势、自相关和差分结果一起解读。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>领先滞后与预测</title>
+      <link>https://51invest.com/research/learn/leads-lags-and-forecasting/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/leads-lags-and-forecasting/</guid>
+      <description>交叉相关和滞后回归能描述谁先动，但变换、窗口和多重检验都会制造“领先”；预测能力必须用样本外误差检验。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>滚动分析与结构变化</title>
+      <link>https://51invest.com/research/learn/rolling-analysis-and-structural-change/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/rolling-analysis-and-structural-change/</guid>
+      <description>前半段估到 0.54、后半段 0.20 时，全样本斜率 0.34 会掩盖断点；滚动路径、断点检验和样本外预测必须一起报告，并说明窗口与断点如何选择——检验不显著也可能只是功效不足。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>事件研究基础</title>
+      <link>https://51invest.com/research/learn/event-study-basics/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/event-study-basics/</guid>
+      <description>用市场模型扣除正常收益后，40 家假设公司的三日平均累计异常收益为 1.9%，t 值为 4.8；构造上无事件的对照窗口在这份样本里也读出 0.1%，说明这类估计自带抽样噪声，事件日聚集与模型选择还会进一步改变结论。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>回测与前视偏差</title>
+      <link>https://51invest.com/research/learn/backtesting-and-look-ahead-bias/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/backtesting-and-look-ahead-bias/</guid>
+      <description>含当月收益的信号年化 20.8%，只用上月信息为 11.4%；前视抬高的是构造收益而非策略能力，随机策略的最佳样本内结果也无法在样本外延续。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>幸存者偏差与交易成本</title>
+      <link>https://51invest.com/research/learn/survivorship-bias-and-trading-costs/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/survivorship-bias-and-trading-costs/</guid>
+      <description>在 500 只基金、120 个月的模拟中，仅保留存续基金把年化收益从 5.7% 抬到 6.6%；高换手策略毛收益 9.4%，扣单边 30 个基点成本后 7.96%，仅比低换手高 0.22 个百分点。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>样本外与过拟合</title>
+      <link>https://51invest.com/research/learn/out-of-sample-testing-and-overfitting/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/out-of-sample-testing-and-overfitting/</guid>
+      <description>在 180 个月搜索 500 组参数，最佳样本内 Sharpe 0.831，样本外降到 0.072；把样本外重复用于挑选后，报告值升到 1.131，同一组合在最终 60 个月降到 0.489。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>多重检验与数据窥探</title>
+      <link>https://51invest.com/research/learn/multiple-testing-and-data-snooping/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/multiple-testing-and-data-snooping/</guid>
+      <description>60 条无预测力的模拟规则中，按 5% 水平有 4 条“显著”；Bonferroni 门槛 0.000833 下全部不显著，而至少一条假显著的概率为 95.4%。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>证据等级与研究报告</title>
+      <link>https://51invest.com/research/learn/evidence-hierarchies-and-research-reports/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/evidence-hierarchies-and-research-reports/</guid>
+      <description>12 项模拟研究按证据层级抽样后，平均效应为实现值 A 层 2.4%、B 层 4.5%、C 层 8.2%，全体 4.7%、剔除 C 层后 3.6%；报告应给出分层、范围和证据确定性，而不是一个单一数字。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数学基础</title>
+      <link>https://51invest.com/research/learn/mathematical-foundations/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/mathematical-foundations/</guid>
+      <description>研究用的数学，是把问题写成函数、约束和可计算步骤，并知道近似什么时候失效；它不只是公式堆。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>预测与机器学习</title>
+      <link>https://51invest.com/research/learn/forecasting-and-machine-learning/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/forecasting-and-machine-learning/</guid>
+      <description>预测与机器学习真正要管的是时间边界、基线、验证方式与漂移监控，模型复杂度不是第一位。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>另类数据与复杂系统</title>
+      <link>https://51invest.com/research/learn/alternative-data-and-complex-systems/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/alternative-data-and-complex-systems/</guid>
+      <description>另类数据与复杂系统扩展了可观察范围，也放大了代表性、许可与识别问题；方法的价值在于把限制写清楚。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>矩阵、微积分与数值稳定</title>
+      <link>https://51invest.com/research/learn/matrices-calculus-and-numerical-stability/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/matrices-calculus-and-numerical-stability/</guid>
+      <description>矩阵运算和微积分是量化分析的骨架，但条件数、尺度和浮点误差会让同一个公式给出不同答案。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数据版本、管道与复现实验</title>
+      <link>https://51invest.com/research/learn/data-versioning-pipelines-and-reproducible-experiments/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/data-versioning-pipelines-and-reproducible-experiments/</guid>
+      <description>复现不是把 notebook 再跑一遍，而是固定数据、代码、环境和随机种子，并让每一步都可审计。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>事件研究：窗口、异常收益与推断</title>
+      <link>https://51invest.com/research/learn/event-study-windows-abnormal-returns-and-inference/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/event-study-windows-abnormal-returns-and-inference/</guid>
+      <description>事件研究把事件窗口的实际收益减去模型预期收益，得到异常收益；窗口选择和推断方法决定结论是否可信。</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>经济学研究什么</title>
+      <link>https://51invest.com/economics/learn/what-economics-studies/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/what-economics-studies/</guid>
+      <description>经济学研究人在稀缺条件下如何选择，以及这些选择如何在个人、市场与整体经济层面相互作用。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>稀缺与选择</title>
+      <link>https://51invest.com/economics/learn/scarcity-and-choice/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/scarcity-and-choice/</guid>
+      <description>稀缺指想要的多于可得到的，因此必须选择；生产可能性边界把这种取舍变成一条可计算、可比较的边界。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币的职能</title>
+      <link>https://51invest.com/finance/learn/functions-of-money/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/functions-of-money/</guid>
+      <description>货币是在交换和清偿中被普遍接受的支付手段；交换媒介、计价单位与价值贮藏三项职能降低交易成本，但以可接受性和币值稳定为条件。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>货币的时间价值</title>
+      <link>https://51invest.com/finance/learn/time-value-of-money/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/time-value-of-money/</guid>
+      <description>不同时点的现金流不能直接相加；复利把今天的价值推向未来，贴现把未来价值拉回今天。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>如何读经济史与思想史</title>
+      <link>https://51invest.com/history/learn/reading-economic-history/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/reading-economic-history/</guid>
+      <description>经济史阅读要区分原始文本、版本、语境和后世解释；先重建当时能知道什么，再讨论结果和类比。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>历史类比与事后偏差</title>
+      <link>https://51invest.com/history/learn/historical-analogies-and-hindsight-bias/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/historical-analogies-and-hindsight-bias/</guid>
+      <description>历史类比要先比较机制、制度和规模，再讨论“像不像”；知道结果会让人高估当时的可预测性。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>写一份投资目标与约束</title>
+      <link>https://51invest.com/invest/learn/investment-goals-and-constraints/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/investment-goals-and-constraints/</guid>
+      <description>先写清目标、金额、期限、流动性和风险承受能力，再讨论资产配置；目标说明不是收益承诺。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>收益风险与成本的取舍</title>
+      <link>https://51invest.com/invest/learn/return-risk-and-cost-tradeoffs/</link>
+      <guid isPermaLink="true">https://51invest.com/invest/learn/return-risk-and-cost-tradeoffs/</guid>
+      <description>把净名义收益、风险与费用放到同一口径比较，用情景区间而非单一预期值判断取舍；示例数字均为假设。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>资产与工具的区别</title>
+      <link>https://51invest.com/markets/learn/assets-vs-instruments/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/assets-vs-instruments/</guid>
+      <description>资产回答“持有什么价值”，工具回答“通过什么合同或证券持有”；同一标的可以对应不同的权利、现金流与风险。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>现金与货币市场工具</title>
+      <link>https://51invest.com/markets/learn/cash-and-money-market-instruments/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/cash-and-money-market-instruments/</guid>
+      <description>现金、存款、国库券、商业票据、存单、回购和货币市场基金都提供短期流动性，但发行人、权利、退出方式和风险并不相同。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>回购、货币基金与流动性分层</title>
+      <link>https://51invest.com/markets/learn/repo-money-funds-and-liquidity-tiers/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/repo-money-funds-and-liquidity-tiers/</guid>
+      <description>短端现金工具看起来都“像现金”，但抵押、赎回、估值和交易对手不同，压力时流动性会分层。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>数据单位与统计口径</title>
+      <link>https://51invest.com/research/learn/data-units-and-definitions/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/data-units-and-definitions/</guid>
+      <description>同名指标可能有不同分母、单位、频率和季调口径；比较前先确认定义，缺失值不能填成零。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>存量与流量</title>
+      <link>https://51invest.com/research/learn/stocks-and-flows/</link>
+      <guid isPermaLink="true">https://51invest.com/research/learn/stocks-and-flows/</guid>
+      <description>存量是某一时点的余额，流量是一段期间的变动；把赤字当债务、把收入当财富，会混淆会计恒等式与因果解释。</description>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

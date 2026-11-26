@@ -1,10 +1,1 @@
-{
-  "site": "main",
-  "servedDomain": "51invest.com",
-  "canonical": "https://51invest.com",
-  "source": "dist/main",
-  "builtAt": "2026-11-25T10:56:10.645Z",
-  "pages": 37,
-  "articles": 276,
-  "note": "Static GitHub Pages deployment. The main site is served at 51invest.com; www.51invest.com redirects in the browser to the apex domain."
-}
+{"site":"main","servedDomain":"51invest.com","canonical":"https://51invest.com","source":"dist/main","builtAt":"2026-11-26T01:48:23Z","pages":59,"articles":351,"commit":"250e8e6","tag":"release-351-2026-11-26","note":"Static GitHub Pages deployment for the 351 baseline; www.51invest.com redirects to 51invest.com."}
