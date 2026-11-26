@@ -6,12 +6,19 @@
     <description>Long-form economics, finance, markets, investing, history and research.</description>
     <language>en</language>
     <atom:link href="https://51invest.com/en/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 07:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:39:30 GMT</lastBuildDate>
 <item>
       <title>Inequality, Wealth Accounting and Intergenerational Mobility</title>
       <link>https://51invest.com/economics/en/learn/inequality-wealth-mobility-measurement/</link>
       <guid isPermaLink="true">https://51invest.com/economics/en/learn/inequality-wealth-mobility-measurement/</guid>
       <description>Put income inequality, wealth inequality and intergenerational mobility on one accounting sheet to separate how large the gap is, why it persists and which part policy can change.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Artificial Intelligence and Task Replacement: Productivity, Rents and Distribution</title>
+      <link>https://51invest.com/economics/en/learn/ai-task-replacement-productivity-rents-distribution/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/en/learn/ai-task-replacement-productivity-rents-distribution/</guid>
+      <description>AI changes tasks before it changes jobs. Separating codifiable, judgement and relational tasks shows where productivity, labour share and rent distribution actually move.</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -22,10 +29,24 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>Private Credit and Direct Lending: Spreads, Covenants and the Cycle</title>
+      <link>https://51invest.com/finance/en/learn/private-credit-direct-lending-spreads-covenants-cycle/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/en/learn/private-credit-direct-lending-spreads-covenants-cycle/</guid>
+      <description>Private credit is not a substitute for high-yield bonds but a chain from borrower to fund, bank facility and end investor. A spread must cover funding, fees, operations and expected loss before leverage turns it into an equity return.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>Comparing Crises across Eras: 1929 to 2008</title>
       <link>https://51invest.com/history/en/learn/cross-era-crisis-comparison-1929-2008/</link>
       <guid isPermaLink="true">https://51invest.com/history/en/learn/cross-era-crisis-comparison-1929-2008/</guid>
       <description>Putting 1929, 2008 and 2020 on the same axes does not prove that history repeats; it shows which parts of leverage, funding, policy space and transmission changed and which did not.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Pandemic Economic History: Labor, Fiscal and Institutional Bills</title>
+      <link>https://51invest.com/history/en/learn/pandemic-economic-history-labor-fiscal-institutions/</link>
+      <guid isPermaLink="true">https://51invest.com/history/en/learn/pandemic-economic-history-labor-fiscal-institutions/</guid>
+      <description>A pandemic is not a one-off mortality number but three ledgers: labor supply and wages, fiscal debt, and institutions and trust. Their horizons differ, and a one-year GDP fall cannot substitute for the long-run bill.</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -40,6 +61,13 @@
       <link>https://51invest.com/markets/en/learn/order-books-market-making-futures-basis/</link>
       <guid isPermaLink="true">https://51invest.com/markets/en/learn/order-books-market-making-futures-basis/</guid>
       <description>An order book turns buy and sell intentions into executable prices and quantities; spread, depth, impact cost and basis determine the true cost of a trade and what a market maker actually earns.</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>Emerging-Market Assets: Currency, Sovereign and Local-Market Risks</title>
+      <link>https://51invest.com/markets/en/learn/emerging-market-assets-currency-sovereign-local-risks/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/en/learn/emerging-market-assets-currency-sovereign-local-risks/</guid>
+      <description>Emerging-market returns are not one curve but a four-part ledger of local coupon, price, currency and sovereign loss. Separating the three risk layers shows what a high yield is compensating.</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -449,7 +477,7 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>The index fund in 1975: from academic paper to product</title>
+      <title>The 1975 index fund: the institutional path from paper to tradable product</title>
       <link>https://51invest.com/history/en/learn/index-fund-1975-academic-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/en/learn/index-fund-1975-academic-to-product/</guid>
       <description>The index fund did not evolve naturally. Academic evidence, regulatory exemptions, distribution channels and fee structure together turned an &quot;average return&quot; idea into a scalable financial product.</description>

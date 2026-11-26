@@ -6,12 +6,19 @@
     <description>经济、金融、市场、投资、历史与研究的中文长文。</description>
     <language>zh-CN</language>
     <atom:link href="https://51invest.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 07:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:39:30 GMT</lastBuildDate>
 <item>
       <title>不平等、财富核算与代际流动</title>
       <link>https://51invest.com/economics/learn/inequality-wealth-mobility-measurement/</link>
       <guid isPermaLink="true">https://51invest.com/economics/learn/inequality-wealth-mobility-measurement/</guid>
       <description>把收入不平等、财富不平等和代际流动放在同一张核算表上，才能分清“差距有多大”“差距为何持续”和“政策能改哪一段”。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>人工智能与任务替代：生产率、租金与分配</title>
+      <link>https://51invest.com/economics/learn/ai-task-replacement-productivity-rents-distribution/</link>
+      <guid isPermaLink="true">https://51invest.com/economics/learn/ai-task-replacement-productivity-rents-distribution/</guid>
+      <description>AI 先改变任务，再改变岗位。把“可编码、判断、关系”三类任务分开，才能看清生产率、劳动份额和租金分配在哪一段发生变化。</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -22,10 +29,24 @@
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
+      <title>私人信贷与直接贷款：利差、契约与周期</title>
+      <link>https://51invest.com/finance/learn/private-credit-direct-lending-spreads-covenants-cycle/</link>
+      <guid isPermaLink="true">https://51invest.com/finance/learn/private-credit-direct-lending-spreads-covenants-cycle/</guid>
+      <description>私人信贷不是“高收益债券的替代品”，而是一条从借款人到基金、银行授信和最终投资者的中介链。利差要先扣资金成本、费用、运营和预期损失，再看杠杆后的权益回报。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
       <title>跨时代危机比较：从 1929 到 2008</title>
       <link>https://51invest.com/history/learn/cross-era-crisis-comparison-1929-2008/</link>
       <guid isPermaLink="true">https://51invest.com/history/learn/cross-era-crisis-comparison-1929-2008/</guid>
       <description>把 1929、2008 和 2020 放在同一组坐标上，不是为了证明“历史会重演”，而是为了看清杠杆、融资、政策空间和传导机制哪些变了、哪些没变。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>大流行经济史：劳动、财政与制度的长期账单</title>
+      <link>https://51invest.com/history/learn/pandemic-economic-history-labor-fiscal-institutions/</link>
+      <guid isPermaLink="true">https://51invest.com/history/learn/pandemic-economic-history-labor-fiscal-institutions/</guid>
+      <description>大流行不是一次性的死亡数字，而是三本账：劳动供给与工资、财政与债务、制度与信任。三本账的时间尺度不同，不能用一年的 GDP 跌幅代替长期后果。</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -40,6 +61,13 @@
       <link>https://51invest.com/markets/learn/order-books-market-making-futures-basis/</link>
       <guid isPermaLink="true">https://51invest.com/markets/learn/order-books-market-making-futures-basis/</guid>
       <description>订单簿把“想买”和“想卖”变成可执行的价格与数量；价差、深度、冲击成本和基差，决定一笔交易的真实成本，也决定做市商靠什么活。</description>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+<item>
+      <title>新兴市场资产：汇率、主权与本地市场的三层风险</title>
+      <link>https://51invest.com/markets/learn/emerging-market-assets-currency-sovereign-local-risks/</link>
+      <guid isPermaLink="true">https://51invest.com/markets/learn/emerging-market-assets-currency-sovereign-local-risks/</guid>
+      <description>新兴市场资产的收益不是一条曲线，而是本地票息、价格、汇率和主权损失四段账。把三层风险分开，才能判断高收益补偿的是哪一种风险。</description>
       <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
@@ -449,7 +477,7 @@
       <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
     </item>
 <item>
-      <title>指数基金 1975：从学术论文到产品</title>
+      <title>指数基金 1975：从论文到可交易产品的制度路径</title>
       <link>https://51invest.com/history/learn/index-fund-1975-academic-to-product/</link>
       <guid isPermaLink="true">https://51invest.com/history/learn/index-fund-1975-academic-to-product/</guid>
       <description>指数基金不是自然演化出来的产品。学术证据、监管豁免、销售渠道和费率结构共同把一个“平均收益”想法变成可规模化的金融产品。</description>
